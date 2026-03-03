@@ -2,8 +2,8 @@ name: Atualiza Agenda Sympla
 
 on:
   schedule:
-    - cron: '0 8 * * *' # Roda todo dia às 8h UTC (5h da manhã no Brasil)
-  workflow_dispatch: # Permite rodar clicando no botão
+    - cron: '0 8 * * *' 
+  workflow_dispatch: 
 
 jobs:
   atualizar:
@@ -21,7 +21,9 @@ jobs:
         node-version: '18'
 
     - name: Instalar Dependências do Robô
-      run: npm install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth
+      run: |
+        npm init -y
+        npm install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth
 
     - name: Rodar a raspagem de dados
       run: node scraper.js
