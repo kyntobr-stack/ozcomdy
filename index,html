@@ -1,1 +1,388 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O'Z COMEDY | O Palco do Humor em Osasco</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800;900&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
+    <style>
+        /* Variáveis de Cores - Tema Neon / O'Z Comedy */
+        :root {
+            --bg-dark: #07070a;
+            --bg-card: #12131c;
+            --neon-red: #ff2a4b;
+            --neon-red-glow: rgba(255, 42, 75, 0.6);
+            --text-light: #ffffff;
+            --text-muted: #a1a1aa;
+            --font-main: 'Outfit', sans-serif;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: var(--font-main); background-color: var(--bg-dark); color: var(--text-light); line-height: 1.6; overflow-x: hidden; scroll-behavior: smooth; }
+        a { text-decoration: none; color: inherit; }
+        ul { list-style: none; }
+
+        /* Animações de Scroll (Reveal) */
+        .reveal { opacity: 0; transform: translateY(50px); transition: all 0.8s ease-out; }
+        .reveal.active { opacity: 1; transform: translateY(0); }
+
+        /* Efeito de Brilho Pulsante */
+        @keyframes pulseNeon {
+            0% { box-shadow: 0 0 10px var(--neon-red-glow); }
+            50% { box-shadow: 0 0 25px var(--neon-red), 0 0 10px var(--neon-red) inset; }
+            100% { box-shadow: 0 0 10px var(--neon-red-glow); }
+        }
+
+        @keyframes float {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-15px); }
+            100% { transform: translateY(0px); }
+        }
+
+        /* Botões */
+        .btn-neon {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            background: transparent;
+            color: #fff;
+            font-weight: 800;
+            text-transform: uppercase;
+            padding: 16px 32px;
+            border-radius: 50px;
+            border: 2px solid var(--neon-red);
+            position: relative;
+            overflow: hidden;
+            transition: all 0.3s;
+            cursor: pointer;
+            letter-spacing: 1px;
+            z-index: 1;
+            animation: pulseNeon 2s infinite;
+        }
+        .btn-neon::before {
+            content: ''; position: absolute; top: 0; left: -100%; width: 100%; height: 100%; background: var(--neon-red); transition: all 0.4s; z-index: -1;
+        }
+        .btn-neon:hover::before { left: 0; }
+        .btn-neon:hover { color: #fff; box-shadow: 0 0 30px var(--neon-red); transform: scale(1.05); animation: none; }
+
+        /* Navbar */
+        nav {
+            position: fixed;
+            width: 100%;
+            background: rgba(7, 7, 10, 0.85);
+            backdrop-filter: blur(12px);
+            padding: 15px 5%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 1000;
+            border-bottom: 1px solid rgba(255, 42, 75, 0.2);
+            transition: all 0.3s;
+        }
+        .logo { display: flex; align-items: center; gap: 10px; font-size: 28px; font-weight: 900; letter-spacing: 1px; }
+        .logo i { color: var(--neon-red); font-size: 24px; text-shadow: 0 0 15px var(--neon-red); }
+        .nav-links { display: flex; gap: 30px; align-items: center; }
+        .nav-links a { font-size: 15px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; transition: color 0.3s; }
+        .nav-links a:hover { color: var(--neon-red); text-shadow: 0 0 10px var(--neon-red-glow); }
+
+        /* Hero Section */
+        .hero {
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            position: relative;
+            background: radial-gradient(circle at center, rgba(255, 42, 75, 0.15) 0%, rgba(7, 7, 10, 1) 70%);
+        }
+        /* Partículas de fundo animadas */
+        .hero::before {
+            content: ''; position: absolute; width: 100%; height: 100%;
+            background-image: url('data:image/svg+xml;utf8,<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><circle cx="20" cy="20" r="1.5" fill="%23ff2a4b" opacity="0.3"/><circle cx="150" cy="80" r="2" fill="%23ffffff" opacity="0.2"/><circle cx="80" cy="160" r="1" fill="%23ff2a4b" opacity="0.5"/></svg>');
+            background-size: 150px 150px; opacity: 0.5; z-index: -1; animation: float 10s linear infinite;
+        }
+        
+        .hero-content { z-index: 1; padding: 0 20px; }
+        .hero-content img { max-width: 350px; margin-bottom: 20px; animation: float 4s ease-in-out infinite; filter: drop-shadow(0 0 20px var(--neon-red-glow)); }
+        .hero-content h1 { font-size: 3.5rem; font-weight: 900; line-height: 1.1; margin-bottom: 20px; text-transform: uppercase; }
+        .hero-content h1 span { color: transparent; -webkit-text-stroke: 1px var(--neon-red); text-shadow: 0 0 20px var(--neon-red-glow); }
+        .hero-content p { font-size: 1.2rem; color: var(--text-muted); margin-bottom: 40px; font-weight: 300; }
+
+        /* Estrutura Geral */
+        .container { max-width: 1200px; margin: 0 auto; padding: 100px 5%; }
+        .section-header { text-align: center; margin-bottom: 60px; }
+        .section-header h2 { font-size: 2.8rem; font-weight: 900; text-transform: uppercase; letter-spacing: 2px; }
+        .section-header h2 span { color: var(--neon-red); text-shadow: 0 0 15px var(--neon-red-glow); }
+
+        /* Agenda / Shows (Grid Moderno) */
+        .agenda-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 30px; }
+        .show-card {
+            background: var(--bg-card);
+            border-radius: 15px;
+            overflow: hidden;
+            position: relative;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            transition: all 0.4s ease;
+        }
+        .show-card:hover { transform: translateY(-10px); border-color: var(--neon-red); box-shadow: 0 10px 30px rgba(255, 42, 75, 0.2); }
+        .show-img { width: 100%; aspect-ratio: 1/1; position: relative; overflow: hidden; background: #000;}
+        .show-img img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.5s ease; }
+        .show-card:hover .show-img img { transform: scale(1.08); }
+        
+        .show-info { padding: 25px; text-align: center; }
+        .show-info h3 { font-size: 1.5rem; font-weight: 800; margin-bottom: 10px; text-transform: uppercase; }
+        .show-info p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 20px; }
+        .btn-buy {
+            display: block; width: 100%; padding: 12px; background: #fff; color: #000; font-weight: 800; text-transform: uppercase; border-radius: 8px; transition: all 0.3s;
+        }
+        .show-card:hover .btn-buy { background: var(--neon-red); color: #fff; box-shadow: 0 0 15px var(--neon-red); }
+
+        /* Informações (Regras da Casa) - Efeito Glassmorphism */
+        .info-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
+        .info-card {
+            background: rgba(18, 19, 28, 0.6);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            padding: 30px;
+            border-radius: 15px;
+            text-align: left;
+            transition: all 0.3s;
+        }
+        .info-card:hover { background: rgba(255, 42, 75, 0.05); border-color: rgba(255, 42, 75, 0.3); }
+        .info-icon { width: 60px; height: 60px; background: rgba(255, 42, 75, 0.1); color: var(--neon-red); border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 28px; margin-bottom: 20px; box-shadow: 0 0 15px rgba(255, 42, 75, 0.2); }
+        .info-card h4 { font-size: 1.3rem; font-weight: 800; margin-bottom: 10px; text-transform: uppercase; }
+        .info-card p { color: var(--text-muted); font-size: 0.95rem; font-weight: 300; }
+        .info-card strong { color: #fff; font-weight: 600; }
+
+        /* Footer */
+        footer { background-color: #030305; padding: 60px 5% 30px; border-top: 1px solid rgba(255, 42, 75, 0.2); position: relative; overflow: hidden; }
+        .footer-grid { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 40px; position: relative; z-index: 1; }
+        .footer-col h3 { font-size: 1.5rem; font-weight: 800; color: #fff; margin-bottom: 20px; }
+        .footer-col p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 15px; }
+        .social-links { display: flex; gap: 15px; margin-top: 20px; }
+        .social-links a {
+            width: 45px; height: 45px; display: flex; align-items: center; justify-content: center; border-radius: 50%;
+            background: var(--bg-card); color: #fff; font-size: 20px; transition: all 0.3s; border: 1px solid rgba(255,255,255,0.1);
+        }
+        .social-links a:hover { background: var(--neon-red); box-shadow: 0 0 15px var(--neon-red); transform: translateY(-3px); border-color: var(--neon-red); }
+        .credits { text-align: center; color: #555; font-size: 0.85rem; margin-top: 50px; padding-top: 20px; border-top: 1px solid #111; }
+        .credits a { color: var(--text-muted); font-weight: bold; transition: color 0.3s; }
+        .credits a:hover { color: var(--neon-red); }
+
+        /* Responsivo */
+        @media (max-width: 768px) {
+            .nav-links { display: none; }
+            .hero-content h1 { font-size: 2.5rem; }
+            .section-header h2 { font-size: 2.2rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <a href="#" class="logo">
+            <i class="fa-solid fa-microphone-lines"></i> O'Z <span>COMEDY</span>
+        </a>
+        <div class="nav-links">
+            <a href="#agenda">Agenda</a>
+            <a href="#regras">A Casa</a>
+            <a href="https://wa.me/5511000000000" target="_blank"><i class="fa-brands fa-whatsapp"></i> Eventos</a>
+        </div>
+        <a href="#agenda" class="btn-neon" style="padding: 10px 20px; font-size: 13px; animation: none;">
+            <i class="fa-solid fa-ticket"></i> Ingressos
+        </a>
+    </nav>
+
+    <section class="hero">
+        <div class="hero-content reveal">
+            <img src="https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-hostgator-brasil-v1-0-3%2F533%2F1313533%2F6lCTk8Yh%2F273cca3d68a94e9f8a070a6d7c233e59&methods=resize%2C500%2C5000" alt="O'Z Comedy Logo">
+            <h1>A Melhor Noite <br><span>De Osasco</span></h1>
+            <p>O centro do humor, drinks exclusivos e as melhores risadas.</p>
+            <a href="#agenda" class="btn-neon"><i class="fa-solid fa-bolt"></i> Ver Programação</a>
+        </div>
+    </section>
+
+    <section id="agenda" class="container">
+        <div class="section-header reveal">
+            <h2>Próximos <span>Shows</span></h2>
+            <p style="color: var(--text-muted); font-size: 1.1rem; margin-top: 10px;">Garanta seu lugar antes que esgote!</p>
+        </div>
+        
+        <div class="agenda-grid" id="sympla-grid">
+            <div style="grid-column: 1 / -1; text-align: center; padding: 50px; color: var(--neon-red);">
+                <i class="fa-solid fa-circle-notch fa-spin fa-3x"></i>
+                <p style="margin-top: 20px; font-weight: 600; color: #fff;">Conectando com a bilheteria...</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="regras" class="container" style="background: var(--bg-dark); padding-top: 0;">
+        <div class="section-header reveal">
+            <h2>Fique por <span>Dentro</span></h2>
+        </div>
+        
+        <div class="info-grid">
+            <div class="info-card reveal">
+                <div class="info-icon"><i class="fa-solid fa-martini-glass-citrus"></i></div>
+                <h4>Bar & Porções</h4>
+                <p><strong>Chegue mais cedo</strong> para escolher os melhores lugares próximos ao palco e aproveitar nossos deliciosos drinks e cardápio.</p>
+            </div>
+
+            <div class="info-card reveal">
+                <div class="info-icon"><i class="fa-solid fa-clock"></i></div>
+                <h4>Horários</h4>
+                <p><strong>Abertura:</strong> 19h00 <br><strong>Show:</strong> 21h00 <br><em>(Atenção: Podem ocorrer pequenos atrasos de até 30 min).</em></p>
+            </div>
+
+            <div class="info-card reveal">
+                <div class="info-icon"><i class="fa-solid fa-chair"></i></div>
+                <h4>Entrada e Mesas</h4>
+                <p>Apresente o <strong>QR Code</strong> e um documento com foto. As mesas são por <strong>ordem de chegada</strong>. Não reservamos mesas e acomodações podem ser compartilhadas.</p>
+            </div>
+
+            <div class="info-card reveal">
+                <div class="info-icon"><i class="fa-solid fa-id-badge"></i></div>
+                <h4>Classificação</h4>
+                <p>Idade mínima: <strong>16 anos</strong>. Menores de 18 apenas com responsável. Crianças a partir de 3 anos pagam ingresso normal.</p>
+            </div>
+
+            <div class="info-card reveal">
+                <div class="info-icon"><i class="fa-solid fa-rotate-left"></i></div>
+                <h4>Cancelamentos</h4>
+                <p>Solicite na plataforma em até 7 dias da compra, ou até <strong>24h antes do show</strong> (Seg-Sex, 9h às 16h). Valores de ingressos sujeitos a alteração.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-grid reveal">
+            <div class="footer-col">
+                <div class="logo" style="margin-bottom: 20px;">
+                    <i class="fa-solid fa-microphone-lines"></i> O'Z <span>COMEDY</span>
+                </div>
+                <p>A experiência definitiva de Stand-Up Comedy na região de Osasco.</p>
+                <div class="social-links">
+                    <a href="https://www.instagram.com/ozcomedy" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="https://www.tiktok.com/" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+                </div>
+            </div>
+            
+            <div class="footer-col">
+                <h3>Onde Estamos</h3>
+                <p><i class="fa-solid fa-location-dot" style="color: var(--neon-red); margin-right: 8px;"></i> Av. Dionysia Alves Barreto, 500<br>Vila Osasco - Osasco, SP</p>
+                <p><i class="fa-solid fa-envelope" style="color: var(--neon-red); margin-right: 8px;"></i> contato@ozcomedy.com.br</p>
+            </div>
+
+            <div class="footer-col">
+                <h3>Eventos</h3>
+                <p>Quer fazer seu aniversário ou evento corporativo com a gente?</p>
+                <a href="https://wa.me/5511000000000" target="_blank" class="btn-neon" style="padding: 10px 20px; font-size: 12px; margin-top: 10px;">
+                    <i class="fa-brands fa-whatsapp" style="font-size: 16px;"></i> Chamar no Whats
+                </a>
+            </div>
+        </div>
+        
+        <div class="credits reveal">
+            © 2026 O'Z COMEDY BAR. TODOS OS DIREITOS RESERVADOS. <br>
+            DESENVOLVIDO POR <a href="https://kynto.com.br" target="_blank">KYNTO IT SOLUTIONS</a>.
+        </div>
+    </footer>
+
+    <script>
+        // 1. Script para animar os elementos quando aparecem na tela (Scroll Reveal)
+        function reveal() {
+            var reveals = document.querySelectorAll('.reveal');
+            for (var i = 0; i < reveals.length; i++) {
+                var windowHeight = window.innerHeight;
+                var elementTop = reveals[i].getBoundingClientRect().top;
+                var elementVisible = 100;
+                if (elementTop < windowHeight - elementVisible) {
+                    reveals[i].classList.add('active');
+                }
+            }
+        }
+        window.addEventListener('scroll', reveal);
+        reveal(); // Dispara ao carregar a página
+
+        // 2. Leitura do JSON da Agenda (Gerado pelo Robô no Github Actions)
+        async function carregarAgenda() {
+            const grid = document.getElementById('sympla-grid');
+
+            try {
+                // Ao colocar no ar, basta o GitHub Actions atualizar o 'agenda.json'
+                const response = await fetch('agenda.json');
+                const eventos = await response.json();
+                
+                grid.innerHTML = ''; 
+
+                if(eventos.length === 0) {
+                    grid.innerHTML = '<p style="color:white; text-align:center; grid-column: 1/-1;">Nenhum show disponível no momento. Fique ligado no nosso Instagram!</p>';
+                    return;
+                }
+
+                eventos.forEach((evento, index) => {
+                    // Limpa a URL da imagem (se vier quebrada do Sympla, usa um placeholder escuro)
+                    const imgUrl = evento.img || 'https://images.unsplash.com/photo-1585699324551-f6c309eedeca?q=80&w=600&auto=format&fit=crop';
+                    
+                    // Adiciona um delay de animação para os cards entrarem em cascata
+                    const animDelay = (index * 0.1) + 's';
+
+                    const card = `
+                        <div class="show-card reveal" style="transition-delay: ${animDelay}">
+                            <div class="show-img">
+                                <img src="${imgUrl}" alt="${evento.nome}" onerror="this.src='https://images.unsplash.com/photo-1585699324551-f6c309eedeca?q=80&w=600&auto=format&fit=crop'">
+                            </div>
+                            <div class="show-info">
+                                <h3>${evento.nome}</h3>
+                                <p><i class="fa-solid fa-fire"></i> Ingressos Voando!</p>
+                                <a href="${evento.url}" target="_blank" class="btn-buy">
+                                    Garantir Ingresso <i class="fa-solid fa-arrow-right"></i>
+                                </a>
+                            </div>
+                        </div>
+                    `;
+                    grid.innerHTML += card;
+                });
+
+                // Ativa a animação pros cards que acabaram de ser carregados
+                reveal();
+
+            } catch (error) {
+                console.error("Erro ao carregar JSON:", error);
+                
+                // MOCK DE TESTE: Aparece apenas se o arquivo agenda.json ainda não existir
+                grid.innerHTML = '';
+                const mockEventos = [
+                    { nome: "Sextou com Stand Up", url: "https://sympla.com.br/ozcomedy", img: "https://images.unsplash.com/photo-1527224857830-43a7ace8526d?q=80&w=600&auto=format&fit=crop" },
+                    { nome: "Elenco Testando Piadas", url: "https://sympla.com.br/ozcomedy", img: "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=600&auto=format&fit=crop" },
+                    { nome: "Domingo Comedy", url: "https://sympla.com.br/ozcomedy", img: "https://images.unsplash.com/photo-1550005741-2a9d8fb217f2?q=80&w=600&auto=format&fit=crop" }
+                ];
+                
+                mockEventos.forEach((evento, index) => {
+                    const animDelay = (index * 0.1) + 's';
+                    const card = `
+                        <div class="show-card reveal active" style="transition-delay: ${animDelay}">
+                            <div class="show-img"><img src="${evento.img}" alt="${evento.nome}"></div>
+                            <div class="show-info">
+                                <h3>${evento.nome}</h3>
+                                <p><i class="fa-solid fa-fire"></i> Ingressos Voando!</p>
+                                <a href="${evento.url}" target="_blank" class="btn-buy">Garantir Ingresso <i class="fa-solid fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    `;
+                    grid.innerHTML += card;
+                });
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', carregarAgenda);
+    </script>
+</body>
+</html>
