@@ -1,47 +1,58 @@
-const puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer-extra');
+const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const fs = require('fs');
 
+// Adiciona a camuflagem para passar pelo Cloudflare
+puppeteer.use(StealthPlugin());
+
 (async () => {
-    console.log("🎭 Iniciando o Robô O'Z Comedy para o Sympla...");
+    console.log("🕵️ Iniciando o Robô Stealth para o Sympla...");
 
     // Inicia o navegador invisível
     const browser = await puppeteer.launch({ 
         headless: "new",
-        args: ['--no-sandbox', '--disable-setuid-sandbox'] 
+        args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage'] 
     });
     
     const page = await browser.newPage();
     
-    // Disfarça o robô como um navegador real
-    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36');
+    // Define um tamanho de tela padrão de desktop
+    await page.setViewport({ width: 1280, height: 800 });
 
     try {
-        console.log("Acessando a página do produtor...");
-        await page.goto('https://www.sympla.com.br/produtor/ozcomedy', { waitUntil: 'networkidle2' });
+        console.log("Acessando a página do O'Z Comedy...");
+        await page.goto('https://www.sympla.com.br/produtor/ozcomedy', { waitUntil: 'networkidle2', timeout: 60000 });
+
+        console.log("Página carregada. Extraindo shows...");
 
         // Avalia a página e extrai os dados
         const shows = await page.evaluate(() => {
             const eventos = [];
-            // O Sympla normalmente usa links que contém "/evento/"
+            // O Sympla sempre usa links que contém "/evento/" para os cards
             const cards = document.querySelectorAll('a[href*="/evento/"]');
 
             cards.forEach((card, index) => {
-                if (index >= 8) return; // Limite de 8 shows
+                if (index >= 8) return; // Pega no máximo os 8 primeiros
                 
                 const url = card.href;
-                // Busca elementos de texto dentro do card
-                const titleElement = card.querySelector('h3');
+                
+                // Tenta achar o título (geralmente em <h1>, <h2> ou <h3>)
+                const titleElement = card.querySelector('h1, h2, h3, h4');
+                const nome = titleElement ? titleElement.innerText.trim() : "Show O'Z Comedy";
+                
+                // Tenta achar a imagem
                 const imgElement = card.querySelector('img');
-                
-                // Tenta achar a data (o Sympla costuma colocar a data em spans/divs logo acima ou abaixo do título)
-                // Aqui pegamos todo o texto do card e tentamos isolar a parte da data/hora
-                const allText = card.innerText; 
-                
+                const img = imgElement ? imgElement.src : "";
+
+                // Pega todo o texto do card para extrair a data depois
+                // Como o Sympla muda as classes CSS constantemente, pegar o texto bruto é mais seguro
+                const textoCru = card.innerText;
+
                 eventos.push({
-                    nome: titleElement ? titleElement.innerText : "Show O'Z Comedy",
+                    nome: nome,
                     url: url,
-                    img: imgElement ? imgElement.src : "",
-                    textoCru: allText // Salvamos o texto cru caso precise tratar no frontend
+                    img: img,
+                    dataStr: textoCru // O front-end pode ler isso e exibir
                 });
             });
 
@@ -53,7 +64,7 @@ const fs = require('fs');
         console.log(`✅ Sucesso! ${shows.length} shows capturados e salvos em agenda.json.`);
 
     } catch (error) {
-        console.error("❌ Erro ao capturar dados:", error);
+        console.error("❌ Erro durante a raspagem:", error.message);
     } finally {
         await browser.close();
     }
