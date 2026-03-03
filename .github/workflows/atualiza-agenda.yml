@@ -1,0 +1,35 @@
+name: Atualiza Agenda Sympla
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Roda todo dia às 8h UTC (5h da manhã no Brasil)
+  workflow_dispatch: # Permite rodar clicando em um botão
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permite que o robô salve o arquivo json no repositório
+
+    steps:
+    - name: Checkout do repositório
+      uses: actions/checkout@v3
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Instalar Axios
+      run: npm install axios
+
+    - name: Rodar a integração com API Sympla
+      run: node scraper.js
+
+    - name: Commit e Push do agenda.json
+      run: |
+        git config --global user.name "Robo Kynto"
+        git config --global user.email "robo@kynto.com.br"
+        git add agenda.json
+        git commit -m "🤖 Agenda de shows atualizada via API" || exit 0
+        git push
