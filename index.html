@@ -8,7 +8,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800;900&display=swap" rel="stylesheet">
-    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <style>
@@ -23,125 +22,227 @@
             --transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
         }
 
-        /* Base & Reset */
         * { margin: 0; padding: 0; box-sizing: border-box; }
         html { scroll-behavior: smooth; }
-        body { 
-            font-family: var(--font-main); 
-            background-color: var(--bg-dark); 
-            color: var(--text-light); 
-            line-height: 1.6; 
+        body {
+            font-family: var(--font-main);
+            background-color: var(--bg-dark);
+            color: var(--text-light);
+            line-height: 1.6;
             overflow-x: hidden;
         }
 
-        /* Animações de Entrada (Reveal) */
+        /* Reveal Animation */
         .reveal { opacity: 0; transform: translateY(30px); transition: var(--transition); }
         .reveal.active { opacity: 1; transform: translateY(0); }
 
-        /* Navbar Moderna */
+        /* ── NAVBAR ── */
         nav {
             position: fixed;
             top: 0; width: 100%;
-            background: rgba(5, 5, 8, 0.8);
-            backdrop-filter: blur(15px);
-            padding: 15px 5%;
+            background: rgba(5, 5, 8, 0.85);
+            backdrop-filter: blur(18px);
+            -webkit-backdrop-filter: blur(18px);
+            padding: 14px 5%;
             display: flex;
             justify-content: space-between;
             align-items: center;
             z-index: 1000;
-            border-bottom: 1px solid rgba(231, 60, 62, 0.1);
+            border-bottom: 1px solid rgba(231, 60, 62, 0.12);
         }
-        .nav-logo img { height: 45px; filter: drop-shadow(0 0 5px var(--neon-red-glow)); }
-        .nav-links { display: flex; gap: 25px; }
-        .nav-links a { font-weight: 600; text-transform: uppercase; font-size: 13px; letter-spacing: 1px; color: var(--text-muted); }
+        .nav-logo img { height: 42px; filter: drop-shadow(0 0 6px var(--neon-red-glow)); }
+        .nav-links { display: flex; gap: 28px; }
+        .nav-links a {
+            font-weight: 600; text-transform: uppercase;
+            font-size: 12px; letter-spacing: 1.5px;
+            color: var(--text-muted); text-decoration: none;
+            transition: color 0.2s;
+        }
         .nav-links a:hover { color: var(--neon-red); }
+        .btn-buy {
+            display: inline-block; padding: 11px 22px;
+            background: var(--neon-red); color: #fff;
+            text-align: center; font-weight: 800;
+            text-transform: uppercase; font-size: 12px;
+            letter-spacing: 1px; border-radius: 50px;
+            text-decoration: none; transition: 0.3s;
+            white-space: nowrap;
+        }
+        .btn-buy:hover { background: #fff; color: #000; box-shadow: 0 0 20px rgba(255,255,255,0.3); }
 
-        /* Hero Section Impactante */
+        /* ── HERO ── */
         .hero {
             height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            position: relative;
-            text-align: center;
-            background: radial-gradient(circle at center, rgba(231, 60, 62, 0.1) 0%, var(--bg-dark) 70%);
+            display: flex; align-items: center; justify-content: center;
+            position: relative; text-align: center;
+            background: radial-gradient(circle at center, rgba(231, 60, 62, 0.12) 0%, var(--bg-dark) 70%);
         }
         .hero video {
-            position: absolute; width: 100%; height: 100%; object-fit: cover;
-            opacity: 0.3; z-index: -1;
+            position: absolute; width: 100%; height: 100%;
+            object-fit: cover; opacity: 0.25; z-index: -1;
         }
-        .hero-content img { 
-            max-width: 320px; margin-bottom: 20px; 
-            filter: drop-shadow(0 0 25px var(--neon-red-glow));
+        .hero-content { padding: 0 20px; }
+        .hero-content img {
+            max-width: 280px; width: 70vw; margin-bottom: 24px;
+            filter: drop-shadow(0 0 28px var(--neon-red-glow));
             animation: float 4s ease-in-out infinite;
         }
-        .hero-content h1 { font-size: clamp(2.5rem, 8vw, 4.5rem); font-weight: 900; text-transform: uppercase; line-height: 1; }
-        .hero-content h1 span { color: var(--neon-red); text-shadow: 0 0 20px var(--neon-red-glow); }
-
-        /* Agenda Grid */
-        .container { max-width: 1200px; margin: 0 auto; padding: 100px 5%; }
-        .section-header { text-align: center; margin-bottom: 60px; }
-        .section-header h2 { font-size: 2.8rem; font-weight: 900; text-transform: uppercase; }
-        .section-header h2 span { color: var(--neon-red); }
-
-        .agenda-grid { 
-            display: grid; 
-            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); 
-            gap: 25px; 
+        .hero-content h1 {
+            font-size: clamp(2rem, 7vw, 4.2rem);
+            font-weight: 900; text-transform: uppercase; line-height: 1.05;
+            margin-bottom: 14px;
         }
+        .hero-content h1 span { color: var(--neon-red); text-shadow: 0 0 22px var(--neon-red-glow); }
+        .hero-content p { color: var(--text-muted); font-size: clamp(0.9rem, 2.5vw, 1.1rem); margin-bottom: 32px; }
+        .hero-cta { display: inline-block; padding: 16px 40px; font-size: 14px; border-radius: 50px; text-decoration: none; }
+
+        /* ── CONTAINER / SECTION HEADER ── */
+        .container { max-width: 1400px; margin: 0 auto; padding: 100px 5%; }
+        .section-header { text-align: center; margin-bottom: 55px; }
+        .section-header h2 { font-size: clamp(1.8rem, 5vw, 2.8rem); font-weight: 900; text-transform: uppercase; }
+        .section-header h2 span { color: var(--neon-red); }
+        .section-header p { color: var(--text-muted); margin-top: 10px; font-size: 0.95rem; }
+
+        /* ── AGENDA GRID: 4 colunas ── */
+        .agenda-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+        }
+
+        /* Tablet: 2 colunas */
+        @media (max-width: 1100px) {
+            .agenda-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+
+        /* Mobile: 1 coluna */
+        @media (max-width: 600px) {
+            .agenda-grid { grid-template-columns: 1fr; gap: 16px; }
+        }
+
+        /* ── SHOW CARD ── */
         .show-card {
             background: var(--bg-card);
-            border-radius: 20px;
+            border-radius: 16px;
             overflow: hidden;
             border: 1px solid rgba(255,255,255,0.05);
             transition: var(--transition);
+            display: flex; flex-direction: column;
         }
-        .show-card:hover { 
-            transform: translateY(-12px); 
-            border-color: var(--neon-red); 
-            box-shadow: 0 15px 40px rgba(231, 60, 62, 0.2); 
+        .show-card:hover {
+            transform: translateY(-10px);
+            border-color: var(--neon-red);
+            box-shadow: 0 18px 40px rgba(231, 60, 62, 0.2);
         }
-        .show-img { width: 100%; aspect-ratio: 16/9; overflow: hidden; }
-        .show-img img { width: 100%; height: 100%; object-fit: cover; transition: 0.5s; }
-        .show-card:hover .show-img img { transform: scale(1.1); }
-        .show-info { padding: 25px; }
-        .show-info h3 { font-size: 1.4rem; font-weight: 800; margin-bottom: 10px; text-transform: uppercase; }
-        .show-info p { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 20px; display: flex; align-items: center; gap: 8px; }
-        .btn-buy {
-            display: block; width: 100%; padding: 14px; background: var(--neon-red); color: #fff; 
-            text-align: center; font-weight: 800; text-transform: uppercase; border-radius: 12px; 
-            transition: 0.3s;
-        }
-        .btn-buy:hover { background: #fff; color: #000; box-shadow: 0 0 20px #fff; }
+        .show-img { width: 100%; aspect-ratio: 3/2; overflow: hidden; position: relative; }
+        .show-img img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.5s ease; display: block; }
+        .show-card:hover .show-img img { transform: scale(1.08); }
 
-        /* Regras / Info Cards */
-        .info-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
-        .info-card { 
-            background: rgba(255,255,255,0.02); 
-            padding: 35px; border-radius: 20px; 
+        /* Badge de data sobre a imagem */
+        .date-badge {
+            position: absolute;
+            top: 10px; left: 10px;
+            background: rgba(5,5,8,0.85);
+            border: 1px solid var(--neon-red);
+            border-radius: 10px;
+            padding: 6px 10px;
+            text-align: center;
+            min-width: 52px;
+            backdrop-filter: blur(6px);
+            line-height: 1.2;
+        }
+        .date-badge .day-num {
+            display: block;
+            font-size: 1.3rem; font-weight: 900;
+            color: var(--neon-red); line-height: 1;
+        }
+        .date-badge .month-name {
+            display: block;
+            font-size: 0.6rem; font-weight: 700;
+            text-transform: uppercase; letter-spacing: 1px;
+            color: var(--text-muted);
+        }
+
+        .show-info { padding: 18px; flex: 1; display: flex; flex-direction: column; }
+        .show-info h3 {
+            font-size: 0.95rem; font-weight: 800;
+            text-transform: uppercase; margin-bottom: 8px;
+            line-height: 1.3;
+            display: -webkit-box; -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical; overflow: hidden;
+        }
+        .show-meta {
+            display: flex; flex-wrap: wrap; gap: 6px;
+            margin-bottom: 14px; margin-top: auto; padding-top: 8px;
+        }
+        .show-meta span {
+            font-size: 0.75rem; color: var(--text-muted);
+            display: flex; align-items: center; gap: 5px;
+        }
+        .show-meta span i { color: var(--neon-red); font-size: 0.7rem; }
+        .btn-buy-card {
+            display: block; width: 100%; padding: 11px;
+            background: var(--neon-red); color: #fff;
+            text-align: center; font-weight: 800;
+            text-transform: uppercase; font-size: 11px;
+            letter-spacing: 0.8px; border-radius: 10px;
+            text-decoration: none; transition: 0.3s;
+        }
+        .btn-buy-card:hover { background: #fff; color: #000; }
+
+        /* Skeleton loader */
+        .skeleton {
+            background: linear-gradient(90deg, var(--bg-card) 25%, #161722 50%, var(--bg-card) 75%);
+            background-size: 200% 100%;
+            animation: shimmer 1.4s infinite;
+            border-radius: 16px;
+            aspect-ratio: 4/5;
+        }
+        @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+
+        /* ── INFO / REGRAS ── */
+        .info-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 18px; }
+        .info-card {
+            background: rgba(255,255,255,0.02);
+            padding: 30px 28px; border-radius: 18px;
             border: 1px solid rgba(255,255,255,0.05);
+            transition: border-color 0.3s;
         }
-        .info-card i { font-size: 30px; color: var(--neon-red); margin-bottom: 20px; }
-        .info-card h4 { font-size: 1.2rem; margin-bottom: 10px; text-transform: uppercase; }
-        .info-card p { font-size: 0.9rem; color: var(--text-muted); }
+        .info-card:hover { border-color: rgba(231,60,62,0.3); }
+        .info-card i { font-size: 26px; color: var(--neon-red); margin-bottom: 16px; }
+        .info-card h4 { font-size: 1rem; margin-bottom: 8px; text-transform: uppercase; font-weight: 800; }
+        .info-card p { font-size: 0.85rem; color: var(--text-muted); line-height: 1.6; }
 
-        /* Footer */
-        footer { padding: 80px 5% 30px; background: #020205; border-top: 1px solid rgba(231, 60, 62, 0.2); }
-        .footer-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 40px; max-width: 1200px; margin: 0 auto; }
-        .footer-col h4 { margin-bottom: 25px; font-weight: 800; text-transform: uppercase; color: var(--neon-red); }
-        .social-icons { display: flex; gap: 15px; margin-top: 20px; }
-        .social-icons a { 
-            width: 45px; height: 45px; border-radius: 50%; background: #111; 
-            display: flex; align-items: center; justify-content: center; transition: 0.3s;
-            border: 1px solid #222;
+        /* ── FOOTER ── */
+        footer { padding: 70px 5% 28px; background: #020205; border-top: 1px solid rgba(231,60,62,0.18); }
+        .footer-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 40px; max-width: 1200px; margin: 0 auto; }
+        .footer-col h4 { margin-bottom: 18px; font-weight: 800; text-transform: uppercase; color: var(--neon-red); font-size: 0.85rem; letter-spacing: 1px; }
+        .footer-col p { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 8px; }
+        .footer-col a { color: var(--text-muted); text-decoration: none; }
+        .footer-col a:hover { color: var(--neon-red); }
+        .social-icons { display: flex; gap: 12px; margin-top: 18px; }
+        .social-icons a {
+            width: 42px; height: 42px; border-radius: 50%;
+            background: #111; display: flex; align-items: center;
+            justify-content: center; transition: 0.3s;
+            border: 1px solid #222; color: var(--text-muted);
+            text-decoration: none; font-size: 14px;
         }
-        .social-icons a:hover { background: var(--neon-red); transform: translateY(-5px); border-color: var(--neon-red); }
+        .social-icons a:hover { background: var(--neon-red); color: #fff; transform: translateY(-4px); border-color: var(--neon-red); }
+        .footer-bottom {
+            text-align: center; margin-top: 50px; color: #333;
+            font-size: 11px; border-top: 1px solid #0f0f0f; padding-top: 20px;
+        }
+        .footer-bottom a { color: #444; text-decoration: none; }
+        .footer-bottom a:hover { color: var(--neon-red); }
 
-        @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-15px); } }
+        @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-14px); } }
 
+        /* ── Navbar mobile ── */
         @media (max-width: 768px) {
             .nav-links { display: none; }
-            .agenda-grid { grid-template-columns: 1fr; }
+            nav { padding: 12px 5%; }
+            .container { padding: 80px 5%; }
         }
     </style>
 </head>
@@ -156,7 +257,7 @@
             <a href="#regras">Regras</a>
             <a href="https://wa.me/5511900000000" target="_blank">Eventos</a>
         </div>
-        <a href="https://www.sympla.com.br/produtor/ozcomedy" target="_blank" class="btn-buy" style="width: auto; padding: 10px 20px; font-size: 12px; border-radius: 50px;">Ingressos</a>
+        <a href="https://www.sympla.com.br/produtor/ozcomedy" target="_blank" class="btn-buy">Ingressos</a>
     </nav>
 
     <section class="hero">
@@ -167,7 +268,7 @@
             <img src="logo.png" alt="O'Z Comedy Neon">
             <h1>A Sua Melhor Noite <span>Em Osasco</span></h1>
             <p>Drinks, porções e o melhor do Stand-up Comedy nacional.</p>
-            <a href="#agenda" class="btn-buy" style="max-width: 250px; margin: 0 auto; border-radius: 50px;">Ver Agenda</a>
+            <a href="#agenda" class="btn-buy hero-cta">Ver Agenda</a>
         </div>
     </section>
 
@@ -177,7 +278,12 @@
             <p>Osasco nunca riu tanto. Escolha seu show e garanta a mesa!</p>
         </div>
         <div class="agenda-grid" id="sympla-grid">
-            </div>
+            <!-- Skeletons enquanto carrega -->
+            <div class="skeleton"></div>
+            <div class="skeleton"></div>
+            <div class="skeleton"></div>
+            <div class="skeleton"></div>
+        </div>
     </section>
 
     <section id="regras" class="container" style="padding-top: 0;">
@@ -211,68 +317,135 @@
     <footer>
         <div class="footer-grid">
             <div class="footer-col">
-                <img src="logo.png" style="height: 60px; margin-bottom: 20px;">
+                <img src="logo.png" style="height: 55px; margin-bottom: 18px; display:block;">
                 <p>O primeiro e melhor Comedy Club de Osasco e região.</p>
                 <div class="social-icons">
-                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                    <a href="#"><i class="fa-brands fa-tiktok"></i></a>
+                    <a href="#" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="#" aria-label="TikTok"><i class="fa-brands fa-tiktok"></i></a>
                 </div>
             </div>
             <div class="footer-col">
                 <h4>Onde Estamos</h4>
-                <p><i class="fa-solid fa-location-dot"></i> Av. Dionysia Alves Barreto, 500<br>Vila Osasco - Osasco, SP</p>
-                <p><i class="fa-solid fa-envelope"></i> contato@ozcomedy.com.br</p>
+                <p><i class="fa-solid fa-location-dot" style="color:var(--neon-red);margin-right:6px;"></i>Av. Dionysia Alves Barreto, 500<br>Vila Osasco – Osasco, SP</p>
+                <p><i class="fa-solid fa-envelope" style="color:var(--neon-red);margin-right:6px;"></i><a href="mailto:contato@ozcomedy.com.br">contato@ozcomedy.com.br</a></p>
             </div>
             <div class="footer-col">
                 <h4>Cancelamentos</h4>
-                <p>Até 7 dias após a compra ou até 24h antes do show (Seg-Sex, 9h às 16h) diretamente na plataforma Sympla.</p>
+                <p>Até 7 dias após a compra ou até 24h antes do show (Seg–Sex, 9h às 16h) diretamente na plataforma Sympla.</p>
             </div>
         </div>
-        <div class="footer-bottom" style="text-align: center; margin-top: 50px; color: #444; font-size: 12px; border-top: 1px solid #111; padding-top: 20px;">
+        <div class="footer-bottom">
             © 2026 O'Z COMEDY | Desenvolvido por <a href="https://kynto.com.br" target="_blank">KYNTO IT SOLUTIONS</a>
         </div>
     </footer>
 
     <script>
-        // Scroll Reveal
+        /* ── Scroll Reveal ── */
         function reveal() {
-            var reveals = document.querySelectorAll('.reveal');
-            for (var i = 0; i < reveals.length; i++) {
-                var windowHeight = window.innerHeight;
-                var elementTop = reveals[i].getBoundingClientRect().top;
-                if (elementTop < windowHeight - 100) {
-                    reveals[i].classList.add('active');
+            document.querySelectorAll('.reveal').forEach(el => {
+                if (el.getBoundingClientRect().top < window.innerHeight - 80) {
+                    el.classList.add('active');
                 }
-            }
+            });
         }
         window.addEventListener('scroll', reveal);
         reveal();
 
-        // Carregar Agenda do arquivo gerado pelo Scraper
+        /* ── Helpers de data ── */
+        const MESES = ['JAN','FEV','MAR','ABR','MAI','JUN','JUL','AGO','SET','OUT','NOV','DEZ'];
+        const DIAS_SEMANA = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
+
+        /**
+         * Recebe uma string de data do agenda.json.
+         * Formatos aceitos:
+         *   "2026-07-18"           → ISO date
+         *   "18/07/2026"           → BR date
+         *   "18/07/2026 21:00"     → BR date + hora
+         *   "Sábado, 18 Jul 2026"  → texto (ignora, tenta parsear)
+         * Retorna { dia, mes, diaSem, hora } ou null
+         */
+        function parseData(raw) {
+            if (!raw) return null;
+            let date;
+            // ISO: 2026-07-18 ou 2026-07-18T21:00
+            if (/^\d{4}-\d{2}-\d{2}/.test(raw)) {
+                date = new Date(raw.replace('T', ' '));
+            }
+            // BR: 18/07/2026 ou 18/07/2026 21:00
+            else if (/^\d{2}\/\d{2}\/\d{4}/.test(raw)) {
+                const [datePart, timePart] = raw.split(' ');
+                const [d, m, y] = datePart.split('/');
+                date = new Date(`${y}-${m}-${d}${timePart ? ' ' + timePart : ''}`);
+            } else {
+                date = new Date(raw);
+            }
+            if (isNaN(date)) return null;
+
+            const hora = raw.includes(':')
+                ? date.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' })
+                : null;
+
+            return {
+                dia: date.getDate().toString().padStart(2, '0'),
+                mes: MESES[date.getMonth()],
+                diaSem: DIAS_SEMANA[date.getDay()],
+                hora
+            };
+        }
+
+        /* ── Carregar Agenda ── */
         async function loadAgenda() {
             const grid = document.getElementById('sympla-grid');
             try {
                 const res = await fetch('agenda.json');
+                if (!res.ok) throw new Error('HTTP ' + res.status);
                 const shows = await res.json();
+
                 grid.innerHTML = '';
-                
+
                 shows.forEach((show, i) => {
+                    const parsed = parseData(show.data || show.date || show.datetime || show.dia);
+                    const delay = (i % 4) * 0.08;
+
+                    const dateBadge = parsed ? `
+                        <div class="date-badge">
+                            <span class="day-num">${parsed.dia}</span>
+                            <span class="month-name">${parsed.mes}</span>
+                        </div>` : '';
+
+                    const metaDate = parsed
+                        ? `<span><i class="fa-solid fa-calendar-day"></i>${parsed.diaSem}, ${parsed.dia} ${parsed.mes}${parsed.hora ? ' · ' + parsed.hora : ''}</span>`
+                        : `<span><i class="fa-solid fa-calendar-day"></i>Ver data no Sympla</span>`;
+
                     grid.innerHTML += `
-                        <div class="show-card reveal" style="transition-delay: ${i*0.1}s">
-                            <div class="show-img"><img src="${show.img}" alt="${show.nome}"></div>
+                        <div class="show-card reveal" style="transition-delay:${delay}s">
+                            <div class="show-img">
+                                <img src="${show.img}" alt="${show.nome}" loading="lazy">
+                                ${dateBadge}
+                            </div>
                             <div class="show-info">
                                 <h3>${show.nome}</h3>
-                                <p><i class="fa-solid fa-calendar-day"></i> Clique para ver data</p>
-                                <a href="${show.url}" target="_blank" class="btn-buy">Garantir Ingresso</a>
+                                <div class="show-meta">
+                                    ${metaDate}
+                                    ${show.local ? `<span><i class="fa-solid fa-location-dot"></i>${show.local}</span>` : ''}
+                                </div>
+                                <a href="${show.url}" target="_blank" rel="noopener" class="btn-buy-card">Garantir Ingresso</a>
                             </div>
-                        </div>
-                    `;
+                        </div>`;
                 });
-                setTimeout(reveal, 100);
+
+                setTimeout(reveal, 80);
+
             } catch (e) {
-                grid.innerHTML = '<p style="grid-column: 1/-1; text-align:center;">Agenda sendo atualizada. Confira no Sympla!</p>';
+                grid.innerHTML = `
+                    <p style="grid-column:1/-1;text-align:center;color:var(--text-muted);padding:40px 0;">
+                        <i class="fa-solid fa-calendar-xmark" style="color:var(--neon-red);font-size:2rem;display:block;margin-bottom:12px;"></i>
+                        Agenda sendo atualizada.<br>
+                        <a href="https://www.sympla.com.br/produtor/ozcomedy" target="_blank" style="color:var(--neon-red);font-weight:700;">Confira no Sympla →</a>
+                    </p>`;
             }
         }
+
         loadAgenda();
     </script>
 </body>
