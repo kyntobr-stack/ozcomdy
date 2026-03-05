@@ -1,11 +1,5 @@
 [
   {
-    "nome": "CRISS PAIVA EM OSASCO - STAND UP COMEDY",
-    "url": "https://www.sympla.com.br/evento/criss-paiva-em-osasco-stand-up-comedy/3323615",
-    "img": "https://images.sympla.com.br/699e19f8a9d80-xs.jpg",
-    "dataStr": "QUA, 04 MAR · 21:00\nCRISS PAIVA EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "UMBANDA COMEDY EM OSASCO",
     "url": "https://www.sympla.com.br/evento/umbanda-comedy-em-osasco/3274132",
     "img": "https://images.sympla.com.br/69868faa296a8-xs.jpg",
@@ -40,6 +34,12 @@
     "url": "https://www.sympla.com.br/evento/igor-guedes-stand-up-comedy/3323622",
     "img": "https://images.sympla.com.br/699e1a5950e47-xs.jpg",
     "dataStr": "QUI, 19 MAR · 21:00\nIGOR GUEDES - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "CONFRARIA COMEDY EM OSASCO",
+    "url": "https://www.sympla.com.br/evento/confraria-comedy-em-osasco/3334738",
+    "img": "https://images.sympla.com.br/69a8a70b6c381-xs.jpg",
+    "dataStr": "SEX, 20 MAR · 21:00\nCONFRARIA COMEDY EM OSASCO\nOZ Comedy - Osasco, SP"
   },
   {
     "nome": "ROGÉRIO MORGADO EM OSASCO - STAND UP COMEDY",
