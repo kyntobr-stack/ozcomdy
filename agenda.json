@@ -1,11 +1,5 @@
 [
   {
-    "nome": "HUMOR JUANA APRESENTA - IURI SALVADOR EM \"CHAPO, LOGO EXISTO\"",
-    "url": "https://www.sympla.com.br/evento/humor-juana-apresenta-iuri-salvador-em-chapo-logo-existo/3326024",
-    "img": "https://images.sympla.com.br/69a0607e0dd5f-xs.png",
-    "dataStr": "QUA, 11 MAR · 21:00\nHUMOR JUANA APRESENTA - IURI SALVADOR EM \"CHAPO, LOGO EXISTO\"\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 12 de Mar OZ COMEDY",
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-12-de-mar-oz-comedy/3323605",
     "img": "https://images.sympla.com.br/699e1869eafd4-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-26-de-marco/3323609",
     "img": "https://images.sympla.com.br/699e18b86e127-xs.jpg",
     "dataStr": "QUI, 26 MAR · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 26 de Março\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "PAI DOS GATOS EM DE REPENTE 50",
+    "url": "https://www.sympla.com.br/evento/pai-dos-gatos-em-de-repente-50/3325953",
+    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "dataStr": "SEX, 27 MAR · 21:00\nPAI DOS GATOS EM DE REPENTE 50\nOZ Comedy - Osasco, SP"
   }
 ]
