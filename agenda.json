@@ -1,11 +1,5 @@
 [
   {
-    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 12 de Mar OZ COMEDY",
-    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-12-de-mar-oz-comedy/3323605",
-    "img": "https://images.sympla.com.br/699e1869eafd4-xs.jpg",
-    "dataStr": "QUI, 12 MAR · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 12 de Mar OZ COMEDY\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "MAGICAMENTE EM OSASCO - STAND UP COMEDY",
     "url": "https://www.sympla.com.br/evento/magicamente-em-osasco-stand-up-comedy/3323627",
     "img": "https://images.sympla.com.br/699e1aec49340-xs.jpg",
@@ -20,7 +14,7 @@
   {
     "nome": "TATA MENDONÇA EM UMA CEGA VISIONÁRIA",
     "url": "https://www.sympla.com.br/evento/tata-mendonca-em-uma-cega-visionaria/3337854",
-    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "img": "https://images.sympla.com.br/69b2d063882df-xs.jpg",
     "dataStr": "QUA, 18 MAR · 21:00\nTATA MENDONÇA EM UMA CEGA VISIONÁRIA\nOZ Comedy - Osasco, SP"
   },
   {
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/pai-dos-gatos-em-de-repente-50/3325953",
     "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
     "dataStr": "SEX, 27 MAR · 21:00\nPAI DOS GATOS EM DE REPENTE 50\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "PAULO ZAMPARO EM OSASCO - ESSA COSTELA É MINHA",
+    "url": "https://www.sympla.com.br/evento/paulo-zamparo-em-osasco-essa-costela-e-minha/3317799",
+    "img": "https://images.sympla.com.br/699862048f893-xs.jpg",
+    "dataStr": "SAB, 28 MAR · 21:00\nPAULO ZAMPARO EM OSASCO - ESSA COSTELA É MINHA\nOZ Comedy - Osasco, SP"
   }
 ]
