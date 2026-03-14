@@ -1,11 +1,5 @@
 [
   {
-    "nome": "MAGICAMENTE EM OSASCO - STAND UP COMEDY",
-    "url": "https://www.sympla.com.br/evento/magicamente-em-osasco-stand-up-comedy/3323627",
-    "img": "https://images.sympla.com.br/699e1aec49340-xs.jpg",
-    "dataStr": "SEX, 13 MAR · 21:00\nMAGICAMENTE EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "O MENINO DO RH - STAND UP COMEDY",
     "url": "https://www.sympla.com.br/evento/o-menino-do-rh-stand-up-comedy/3260392",
     "img": "https://images.sympla.com.br/69868fcb06df7-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/paulo-zamparo-em-osasco-essa-costela-e-minha/3317799",
     "img": "https://images.sympla.com.br/699862048f893-xs.jpg",
     "dataStr": "SAB, 28 MAR · 21:00\nPAULO ZAMPARO EM OSASCO - ESSA COSTELA É MINHA\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "BETINA CÂMARA EM 'TÓXICA' - UM STAND UP DE UMA PIRANHA CANSADA",
+    "url": "https://www.sympla.com.br/evento/betina-camara-em-toxica-um-stand-up-de-uma-piranha-cansada/3337856",
+    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "dataStr": "SAB, 25 ABR · 21:00\nBETINA CÂMARA EM 'TÓXICA' - UM STAND UP DE UMA PIRANHA CANSADA\nOZ Comedy - Osasco, SP"
   }
 ]
