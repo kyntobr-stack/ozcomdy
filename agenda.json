@@ -1,11 +1,5 @@
 [
   {
-    "nome": "TATA MENDONÇA EM UMA CEGA VISIONÁRIA",
-    "url": "https://www.sympla.com.br/evento/tata-mendonca-em-uma-cega-visionaria/3337854",
-    "img": "https://images.sympla.com.br/69b2d063882df-xs.jpg",
-    "dataStr": "QUA, 18 MAR · 21:00\nTATA MENDONÇA EM UMA CEGA VISIONÁRIA\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "IGOR GUEDES - STAND UP COMEDY",
     "url": "https://www.sympla.com.br/evento/igor-guedes-stand-up-comedy/3323622",
     "img": "https://images.sympla.com.br/699e1a5950e47-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/fernanda-arantes-em-errei-fui-filhote-o-dia-em-que-o-barco-afundou-de-vez/3350717",
     "img": "https://images.sympla.com.br/69b9816ea39e9-xs.jpg",
     "dataStr": "QUA, 01 ABR · 21:00\nFERNANDA ARANTES EM \"ERREI, FUI FILHOTE\" - O DIA EM QUE O BARCO AFUNDOU DE VEZ\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "LÉO RITTER EM OSASCO - O RISO É UMA PRECE",
+    "url": "https://www.sympla.com.br/evento/leo-ritter-em-osasco-o-riso-e-uma-prece/3350724",
+    "img": "https://images.sympla.com.br/69b9821655196-xs.jpg",
+    "dataStr": "QUI, 09 ABR · 21:00\nLÉO RITTER EM OSASCO - O RISO É UMA PRECE\nOZ Comedy - Osasco, SP"
   }
 ]
