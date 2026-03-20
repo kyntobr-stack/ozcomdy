@@ -1,11 +1,5 @@
 [
   {
-    "nome": "IGOR GUEDES - STAND UP COMEDY",
-    "url": "https://www.sympla.com.br/evento/igor-guedes-stand-up-comedy/3323622",
-    "img": "https://images.sympla.com.br/699e1a5950e47-xs.jpg",
-    "dataStr": "QUI, 19 MAR · 21:00\nIGOR GUEDES - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "ROGÉRIO MORGADO EM OSASCO - STAND UP COMEDY",
     "url": "https://www.sympla.com.br/evento/rogerio-morgado-em-osasco-stand-up-comedy/3317383",
     "img": "https://images.sympla.com.br/69a057d5f0cb1-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/leo-ritter-em-osasco-o-riso-e-uma-prece/3350724",
     "img": "https://images.sympla.com.br/69b9821655196-xs.jpg",
     "dataStr": "QUI, 09 ABR · 21:00\nLÉO RITTER EM OSASCO - O RISO É UMA PRECE\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "MARCELO DUQUE EM OSASCO - SEM FILTRO",
+    "url": "https://www.sympla.com.br/evento/marcelo-duque-em-osasco-sem-filtro/3350727",
+    "img": "https://images.sympla.com.br/69b98255be1ab-xs.jpg",
+    "dataStr": "SEX, 10 ABR · 21:00\nMARCELO DUQUE EM OSASCO - SEM FILTRO\nOZ Comedy - Osasco, SP"
   }
 ]
