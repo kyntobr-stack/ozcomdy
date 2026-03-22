@@ -1,11 +1,5 @@
 [
   {
-    "nome": "ROGÉRIO MORGADO EM OSASCO - STAND UP COMEDY",
-    "url": "https://www.sympla.com.br/evento/rogerio-morgado-em-osasco-stand-up-comedy/3317383",
-    "img": "https://images.sympla.com.br/69a057d5f0cb1-xs.jpg",
-    "dataStr": "SAB, 21 MAR · 21:00\nROGÉRIO MORGADO EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "NIL AGRA EM 40 ANOS ZERO PACIÊNCIA",
     "url": "https://www.sympla.com.br/evento/nil-agra-em-40-anos-zero-paciencia/3350703",
     "img": "https://images.sympla.com.br/69b97fef1055f-xs.png",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/marcelo-duque-em-osasco-sem-filtro/3350727",
     "img": "https://images.sympla.com.br/69b98255be1ab-xs.jpg",
     "dataStr": "SEX, 10 ABR · 21:00\nMARCELO DUQUE EM OSASCO - SEM FILTRO\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "GUI PRETO EM OSASCO - DEIXA EU VER SE EU ENTENDI",
+    "url": "https://www.sympla.com.br/evento/gui-preto-em-osasco-deixa-eu-ver-se-eu-entendi/3350731",
+    "img": "https://images.sympla.com.br/69b98299c9565-xs.jpg",
+    "dataStr": "SAB, 11 ABR · 21:00\nGUI PRETO EM OSASCO - DEIXA EU VER SE EU ENTENDI\nOZ Comedy - Osasco, SP"
   }
 ]
