@@ -1,11 +1,5 @@
 [
   {
-    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 26 de Março",
-    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-26-de-marco/3323609",
-    "img": "https://images.sympla.com.br/699e18b86e127-xs.jpg",
-    "dataStr": "QUI, 26 MAR · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 26 de Março\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "PAI DOS GATOS EM DE REPENTE 50",
     "url": "https://www.sympla.com.br/evento/pai-dos-gatos-em-de-repente-50/3325953",
     "img": "https://images.sympla.com.br/69b97f54ed2fb-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/confraria-comedy-em-osasco/3350734",
     "img": "https://images.sympla.com.br/69b982d688cd8-xs.jpg",
     "dataStr": "QUI, 16 ABR · 21:00\nCONFRARIA COMEDY EM OSASCO\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "YURI MARÇAL EM OSASCO - VIROU PASSEIO",
+    "url": "https://www.sympla.com.br/evento/yuri-marcal-em-osasco-virou-passeio/3350828",
+    "img": "https://images.sympla.com.br/69b98c7b63efc-xs.jpg",
+    "dataStr": "SEX, 17 ABR · 21:00\nYURI MARÇAL EM OSASCO - VIROU PASSEIO\nOZ Comedy - Osasco, SP"
   }
 ]
