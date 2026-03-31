@@ -24,6 +24,12 @@
     "dataStr": "SAB, 11 ABR · 21:00\nGUI PRETO EM OSASCO - DEIXA EU VER SE EU ENTENDI\nOZ Comedy - Osasco, SP"
   },
   {
+    "nome": "DIEGO BESOU - NEM QUE EU SURTE NO PLANTÃO",
+    "url": "https://www.sympla.com.br/evento/diego-besou-nem-que-eu-surte-no-plantao/3368335",
+    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "dataStr": "QUA, 15 ABR · 21:00\nDIEGO BESOU - NEM QUE EU SURTE NO PLANTÃO\nOz Comedy - Osasco, SP"
+  },
+  {
     "nome": "CONFRARIA COMEDY EM OSASCO",
     "url": "https://www.sympla.com.br/evento/confraria-comedy-em-osasco/3350734",
     "img": "https://images.sympla.com.br/69b982d688cd8-xs.jpg",
@@ -40,11 +46,5 @@
     "url": "https://www.sympla.com.br/evento/nil-agra-em-40-anos-zero-paciencia/3350703",
     "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
     "dataStr": "SAB, 18 ABR · 21:00\nNIL AGRA EM 40 ANOS ZERO PACIÊNCIA\nOZ Comedy - Osasco, SP"
-  },
-  {
-    "nome": "MAGICAMENTE EM OSASCO - STAND UP COMEDY",
-    "url": "https://www.sympla.com.br/evento/magicamente-em-osasco-stand-up-comedy/3350848",
-    "img": "https://images.sympla.com.br/699e1aec49340-xs.jpg",
-    "dataStr": "SEX, 24 ABR · 21:00\nMAGICAMENTE EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
   }
 ]
