@@ -1,11 +1,5 @@
 [
   {
-    "nome": "LÉO RITTER EM OSASCO - O RISO É UMA PRECE",
-    "url": "https://www.sympla.com.br/evento/leo-ritter-em-osasco-o-riso-e-uma-prece/3350724",
-    "img": "https://images.sympla.com.br/69b9821655196-xs.jpg",
-    "dataStr": "QUI, 09 ABR · 21:00\nLÉO RITTER EM OSASCO - O RISO É UMA PRECE\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "MARCELO DUQUE EM OSASCO - SEM FILTRO",
     "url": "https://www.sympla.com.br/evento/marcelo-duque-em-osasco-sem-filtro/3350727",
     "img": "https://images.sympla.com.br/69b98255be1ab-xs.jpg",
@@ -24,12 +18,6 @@
     "dataStr": "QUA, 15 ABR · 21:00\nDIEGO BESOU - NEM QUE EU SURTE NO PLANTÃO\nOz Comedy - Osasco, SP"
   },
   {
-    "nome": "CONFRARIA COMEDY EM OSASCO",
-    "url": "https://www.sympla.com.br/evento/confraria-comedy-em-osasco/3350734",
-    "img": "https://images.sympla.com.br/69b982d688cd8-xs.jpg",
-    "dataStr": "QUI, 16 ABR · 21:00\nCONFRARIA COMEDY EM OSASCO\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "YURI MARÇAL EM OSASCO - VIROU PASSEIO",
     "url": "https://www.sympla.com.br/evento/yuri-marcal-em-osasco-virou-passeio/3350828",
     "img": "https://images.sympla.com.br/69b98c7b63efc-xs.jpg",
@@ -46,5 +34,17 @@
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-oz-comedy-quinta-23-de-abril-osasco/3371077",
     "img": "https://images.sympla.com.br/69cd5d05391f3-xs.png",
     "dataStr": "QUI, 23 ABR · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Oz Comedy quinta 23 de abril Osasco\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "MAGICAMENTE EM OSASCO - STAND UP COMEDY",
+    "url": "https://www.sympla.com.br/evento/magicamente-em-osasco-stand-up-comedy/3350848",
+    "img": "https://images.sympla.com.br/69cc4045c6e75-xs.jpg",
+    "dataStr": "SEX, 24 ABR · 21:00\nMAGICAMENTE EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "BETINA CÂMARA EM 'TÓXICA' - UM STAND UP DE UMA PIRANHA CANSADA",
+    "url": "https://www.sympla.com.br/evento/betina-camara-em-toxica-um-stand-up-de-uma-piranha-cansada/3337856",
+    "img": "https://images.sympla.com.br/69b980762625f-xs.jpg",
+    "dataStr": "SAB, 25 ABR · 21:00\nBETINA CÂMARA EM 'TÓXICA' - UM STAND UP DE UMA PIRANHA CANSADA\nOZ Comedy - Osasco, SP"
   }
 ]
