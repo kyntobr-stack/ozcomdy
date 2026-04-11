@@ -1,17 +1,5 @@
 [
   {
-    "nome": "MARCELO DUQUE EM OSASCO - SEM FILTRO",
-    "url": "https://www.sympla.com.br/evento/marcelo-duque-em-osasco-sem-filtro/3350727",
-    "img": "https://images.sympla.com.br/69b98255be1ab-xs.jpg",
-    "dataStr": "SEX, 10 ABR · 21:00\nMARCELO DUQUE EM OSASCO - SEM FILTRO\nOZ Comedy - Osasco, SP"
-  },
-  {
-    "nome": "GUI PRETO EM OSASCO - DEIXA EU VER SE EU ENTENDI",
-    "url": "https://www.sympla.com.br/evento/gui-preto-em-osasco-deixa-eu-ver-se-eu-entendi/3350731",
-    "img": "https://images.sympla.com.br/69b98299c9565-xs.jpg",
-    "dataStr": "SAB, 11 ABR · 21:00\nGUI PRETO EM OSASCO - DEIXA EU VER SE EU ENTENDI\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "DIEGO BESOU - NEM QUE EU SURTE NO PLANTÃO",
     "url": "https://www.sympla.com.br/evento/diego-besou-nem-que-eu-surte-no-plantao/3368335",
     "img": "https://images.sympla.com.br/69d542a2a5e4f-xs.jpg",
@@ -46,5 +34,17 @@
     "url": "https://www.sympla.com.br/evento/betina-camara-em-toxica-um-stand-up-de-uma-piranha-cansada/3337856",
     "img": "https://images.sympla.com.br/69b980762625f-xs.jpg",
     "dataStr": "SAB, 25 ABR · 21:00\nBETINA CÂMARA EM 'TÓXICA' - UM STAND UP DE UMA PIRANHA CANSADA\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "NANDO VIANA À VONTADE",
+    "url": "https://www.sympla.com.br/evento/nando-viana-a-vontade/3361305",
+    "img": "https://images.sympla.com.br/69d682091627c-xs.jpg",
+    "dataStr": "QUA, 29 ABR · 21:00\nNANDO VIANA À VONTADE\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Oz Comedy quinta 07/05/26",
+    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-oz-comedy-quinta-07-05-26/3382095",
+    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "dataStr": "QUI, 07 MAI · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Oz Comedy quinta 07/05/26\nOZ Comedy - Osasco, SP"
   }
 ]
