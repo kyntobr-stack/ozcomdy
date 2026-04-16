@@ -1,11 +1,5 @@
 [
   {
-    "nome": "DIEGO BESOU - NEM QUE EU SURTE NO PLANTÃO",
-    "url": "https://www.sympla.com.br/evento/diego-besou-nem-que-eu-surte-no-plantao/3368335",
-    "img": "https://images.sympla.com.br/69d542a2a5e4f-xs.jpg",
-    "dataStr": "QUA, 15 ABR · 21:00\nDIEGO BESOU - NEM QUE EU SURTE NO PLANTÃO\nOz Comedy - Osasco, SP"
-  },
-  {
     "nome": "YURI MARÇAL EM OSASCO - VIROU PASSEIO",
     "url": "https://www.sympla.com.br/evento/yuri-marcal-em-osasco-virou-passeio/3350828",
     "img": "https://images.sympla.com.br/69b98c7b63efc-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-oz-comedy-quinta-07-05-26/3382095",
     "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
     "dataStr": "QUI, 07 MAI · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Oz Comedy quinta 07/05/26\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "GÉSSICA FERREIRA - STAND UP COMEDY",
+    "url": "https://www.sympla.com.br/evento/gessica-ferreira-stand-up-comedy/3350868",
+    "img": "https://images.sympla.com.br/69d6828050933-xs.jpg",
+    "dataStr": "SAB, 09 MAI · 21:00\nGÉSSICA FERREIRA - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
   }
 ]
