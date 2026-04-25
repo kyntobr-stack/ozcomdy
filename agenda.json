@@ -1,11 +1,5 @@
 [
   {
-    "nome": "MAGICAMENTE EM OSASCO - STAND UP COMEDY",
-    "url": "https://www.sympla.com.br/evento/magicamente-em-osasco-stand-up-comedy/3350848",
-    "img": "https://images.sympla.com.br/69cc4045c6e75-xs.jpg",
-    "dataStr": "SEX, 24 ABR · 21:00\nMAGICAMENTE EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "BETINA CÂMARA EM 'TÓXICA' - UM STAND UP DE UMA PIRANHA CANSADA",
     "url": "https://www.sympla.com.br/evento/betina-camara-em-toxica-um-stand-up-de-uma-piranha-cansada/3337856",
     "img": "https://images.sympla.com.br/69b980762625f-xs.jpg",
@@ -34,6 +28,12 @@
     "url": "https://www.sympla.com.br/evento/gessica-ferreira-stand-up-comedy/3350868",
     "img": "https://images.sympla.com.br/69d6828050933-xs.jpg",
     "dataStr": "SEX, 08 MAI · 21:00\nGÉSSICA FERREIRA - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "CONFRARIA COMEDY EM OSASCO",
+    "url": "https://www.sympla.com.br/evento/confraria-comedy-em-osasco/3395840",
+    "img": "https://images.sympla.com.br/69e906ed26772-xs.jpg",
+    "dataStr": "SAB, 09 MAI · 21:00\nCONFRARIA COMEDY EM OSASCO\nOZ Comedy - Osasco, SP"
   },
   {
     "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Oz Comedy quinta 14/05/26",
