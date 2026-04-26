@@ -1,11 +1,5 @@
 [
   {
-    "nome": "BETINA CÂMARA EM 'TÓXICA' - UM STAND UP DE UMA PIRANHA CANSADA",
-    "url": "https://www.sympla.com.br/evento/betina-camara-em-toxica-um-stand-up-de-uma-piranha-cansada/3337856",
-    "img": "https://images.sympla.com.br/69b980762625f-xs.jpg",
-    "dataStr": "SAB, 25 ABR · 21:00\nBETINA CÂMARA EM 'TÓXICA' - UM STAND UP DE UMA PIRANHA CANSADA\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "NANDO VIANA À VONTADE",
     "url": "https://www.sympla.com.br/evento/nando-viana-a-vontade/3361305",
     "img": "https://images.sympla.com.br/69d682091627c-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/murilo-moraes-em-osasco-show-do-react/3395899",
     "img": "https://images.sympla.com.br/6977fd9e9a305-xs.jpg",
     "dataStr": "SEX, 15 MAI · 21:00\nMURILO MORAES EM OSASCO - SHOW DO REACT\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "UMBANDA COMEDY EM OSASCO",
+    "url": "https://www.sympla.com.br/evento/umbanda-comedy-em-osasco/3395915",
+    "img": "https://images.sympla.com.br/69e90cea5c201-xs.jpg",
+    "dataStr": "SAB, 16 MAI · 21:00\nUMBANDA COMEDY EM OSASCO\nOZ Comedy - Osasco, SP"
   }
 ]
