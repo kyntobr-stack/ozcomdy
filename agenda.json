@@ -1,11 +1,5 @@
 [
   {
-    "nome": "NANDO VIANA À VONTADE",
-    "url": "https://www.sympla.com.br/evento/nando-viana-a-vontade/3361305",
-    "img": "https://images.sympla.com.br/69d682091627c-xs.jpg",
-    "dataStr": "QUA, 29 ABR · 21:00\nNANDO VIANA À VONTADE\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "TUCA GRAÇA E FELIPE DE PAULA EM OSASCO - SURTADOS SA",
     "url": "https://www.sympla.com.br/evento/tuca-graca-e-felipe-de-paula-em-osasco-surtados-sa/3398119",
     "img": "https://images.sympla.com.br/69eaa80190664-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/umbanda-comedy-em-osasco/3395915",
     "img": "https://images.sympla.com.br/69e90cea5c201-xs.jpg",
     "dataStr": "SAB, 16 MAI · 21:00\nUMBANDA COMEDY EM OSASCO\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "PAULO MANSUR EM OSASCO - ENTRE CHARUTOS E CACHAÇAS",
+    "url": "https://www.sympla.com.br/evento/paulo-mansur-em-osasco-entre-charutos-e-cachacas/3361325",
+    "img": "https://images.sympla.com.br/69c54d51ebfd6-xs.jpg",
+    "dataStr": "QUA, 20 MAI · 21:00\nPAULO MANSUR EM OSASCO - ENTRE CHARUTOS E CACHAÇAS\nOZ Comedy - Osasco, SP"
   }
 ]
