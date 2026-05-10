@@ -1,11 +1,5 @@
 [
   {
-    "nome": "CONFRARIA COMEDY EM OSASCO",
-    "url": "https://www.sympla.com.br/evento/confraria-comedy-em-osasco/3395840",
-    "img": "https://images.sympla.com.br/69e906ed26772-xs.jpg",
-    "dataStr": "SAB, 09 MAI · 21:00\nCONFRARIA COMEDY EM OSASCO\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Oz Comedy quinta 14/05/26",
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-oz-comedy-quinta-14-05-26/3395862",
     "img": "https://images.sympla.com.br/69e9087a0a832-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/magicamente-em-osasco-stand-up-comedy/3395891",
     "img": "https://images.sympla.com.br/69e90aab74e94-xs.jpg",
     "dataStr": "SEX, 29 MAI · 21:00\nMAGICAMENTE EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Daniel Duncan em osasco 27/06",
+    "url": "https://www.sympla.com.br/evento/daniel-duncan-em-osasco-27-06/3418512",
+    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "dataStr": "SAB, 27 JUN · 21:00\nDaniel Duncan em osasco 27/06\nOZ Comedy - Osasco, SP"
   }
 ]
