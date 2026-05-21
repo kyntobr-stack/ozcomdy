@@ -1,11 +1,5 @@
 [
   {
-    "nome": "PAULO MANSUR EM OSASCO - ENTRE CHARUTOS E CACHAÇAS",
-    "url": "https://www.sympla.com.br/evento/paulo-mansur-em-osasco-entre-charutos-e-cachacas/3361325",
-    "img": "https://images.sympla.com.br/69c54d51ebfd6-xs.jpg",
-    "dataStr": "QUA, 20 MAI · 21:00\nPAULO MANSUR EM OSASCO - ENTRE CHARUTOS E CACHAÇAS\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 21 e 28 demaio",
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-21-e-28-demaio/3407930",
     "img": "https://images.sympla.com.br/69fcfc94f0c32-xs.png",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/ivangelica-em-osasco/3424187",
     "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
     "dataStr": "QUA, 10 JUN · 21:00\nIVANGÉLICA EM OSASCO\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 11 de Junho",
+    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-11-de-junho/3431750",
+    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "dataStr": "QUI, 11 JUN · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 11 de Junho\nOZ Comedy - Osasco, SP"
   }
 ]
