@@ -30,9 +30,15 @@
     "dataStr": "SEX, 05 JUN · 21:00\nTATA MENDONÇA EM UMA CEGA VISIONÁRIA\nOZ Comedy - Osasco, SP"
   },
   {
+    "nome": "NINY MAGALHÃES",
+    "url": "https://www.sympla.com.br/evento/niny-magalhaes/3431822",
+    "img": "https://images.sympla.com.br/6a15be3ac690e-xs.png",
+    "dataStr": "SAB, 06 JUN · 21:00\nNINY MAGALHÃES\nOz Comedy - Osasco, SP"
+  },
+  {
     "nome": "IVANGÉLICA EM OSASCO",
     "url": "https://www.sympla.com.br/evento/ivangelica-em-osasco/3424187",
-    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "img": "https://images.sympla.com.br/6a15d5cb6d856-xs.jpg",
     "dataStr": "QUA, 10 JUN · 21:00\nIVANGÉLICA EM OSASCO\nOZ Comedy - Osasco, SP"
   },
   {
@@ -40,11 +46,5 @@
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-11-de-junho/3431750",
     "img": "https://images.sympla.com.br/6a13204fb8cce-xs.jpg",
     "dataStr": "QUI, 11 JUN · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 11 de Junho\nOZ Comedy - Osasco, SP"
-  },
-  {
-    "nome": "KEDNY SILVA EM OSASCO - RECEBA",
-    "url": "https://www.sympla.com.br/evento/kedny-silva-em-osasco-receba/3431821",
-    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
-    "dataStr": "SEX, 12 JUN · 21:00\nKEDNY SILVA EM OSASCO - RECEBA\nOz Comedy - Osasco, SP"
   }
 ]
