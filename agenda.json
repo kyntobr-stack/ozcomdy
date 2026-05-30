@@ -1,11 +1,5 @@
 [
   {
-    "nome": "MAGICAMENTE EM OSASCO - STAND UP COMEDY",
-    "url": "https://www.sympla.com.br/evento/magicamente-em-osasco-stand-up-comedy/3395891",
-    "img": "https://images.sympla.com.br/6a036aa860772-xs.jpg",
-    "dataStr": "SEX, 29 MAI · 21:00\nMAGICAMENTE EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "PAULO BERTOLINO EM OSASCO - CRIA DE BARUERI",
     "url": "https://www.sympla.com.br/evento/paulo-bertolino-em-osasco-cria-de-barueri/3431398",
     "img": "https://images.sympla.com.br/6a0c640b15d5b-xs.png",
@@ -34,6 +28,12 @@
     "url": "https://www.sympla.com.br/evento/ivangelica-em-osasco/3424187",
     "img": "https://images.sympla.com.br/6a15d5cb6d856-xs.jpg",
     "dataStr": "QUA, 10 JUN · 21:00\nIVANGÉLICA EM OSASCO\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "IVANGÉLICA EM OSASCO Sessão extra",
+    "url": "https://www.sympla.com.br/evento/ivangelica-em-osasco-sessao-extra/3446201",
+    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "dataStr": "QUA, 10 JUN · 23:00\nIVANGÉLICA EM OSASCO Sessão extra\nOZ Comedy - Osasco, SP"
   },
   {
     "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 11 de hunho",
