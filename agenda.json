@@ -1,11 +1,5 @@
 [
   {
-    "nome": "PAULO BERTOLINO EM OSASCO - CRIA DE BARUERI",
-    "url": "https://www.sympla.com.br/evento/paulo-bertolino-em-osasco-cria-de-barueri/3431398",
-    "img": "https://images.sympla.com.br/6a0c640b15d5b-xs.png",
-    "dataStr": "SAB, 30 MAI · 21:00\nPAULO BERTOLINO EM OSASCO - CRIA DE BARUERI\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 04 junho",
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-04-junho/3444794",
     "img": "https://images.sympla.com.br/6a187f620403a-xs.jpg",
@@ -36,15 +30,21 @@
     "dataStr": "QUA, 10 JUN · 23:00\nIVANGÉLICA EM OSASCO Sessão extra\nOZ Comedy - Osasco, SP"
   },
   {
-    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 11 de hunho",
-    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-11-de-hunho/3431750",
+    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 11 de Junho",
+    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-11-de-junho/3431750",
     "img": "https://images.sympla.com.br/6a13204fb8cce-xs.jpg",
-    "dataStr": "QUI, 11 JUN · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 11 de hunho\nOZ Comedy - Osasco, SP"
+    "dataStr": "QUI, 11 JUN · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 11 de Junho\nOZ Comedy - Osasco, SP"
   },
   {
     "nome": "KEDNY SILVA EM OSASCO - RECEBA",
     "url": "https://www.sympla.com.br/evento/kedny-silva-em-osasco-receba/3431821",
     "img": "https://images.sympla.com.br/6a15bf3eb691b-xs.jpg",
     "dataStr": "SEX, 12 JUN · 21:00\nKEDNY SILVA EM OSASCO - RECEBA\nOz Comedy - Osasco, SP"
+  },
+  {
+    "nome": "A COPA DO MUNDO 2026 VAI SER NO OZ COMEDY!",
+    "url": "https://www.sympla.com.br/evento/a-copa-do-mundo-2026-vai-ser-no-oz-comedy/3431828",
+    "img": "https://images.sympla.com.br/6a13220b80352-xs.jpg",
+    "dataStr": "SAB, 13 JUN · 21:30\nA COPA DO MUNDO 2026 VAI SER NO OZ COMEDY!\nOZ Comedy - Osasco, SP"
   }
 ]
