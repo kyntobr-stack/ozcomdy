@@ -1,11 +1,5 @@
 [
   {
-    "nome": "NINY MAGALHÃES",
-    "url": "https://www.sympla.com.br/evento/niny-magalhaes/3431822",
-    "img": "https://images.sympla.com.br/6a15be3ac690e-xs.png",
-    "dataStr": "SAB, 06 JUN · 21:00\nNINY MAGALHÃES\nOz Comedy - Osasco, SP"
-  },
-  {
     "nome": "IVANGÉLICA EM OSASCO",
     "url": "https://www.sympla.com.br/evento/ivangelica-em-osasco/3424187",
     "img": "https://images.sympla.com.br/6a15d5cb6d856-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-18-de-junho/3431752",
     "img": "https://images.sympla.com.br/6a1320704421c-xs.jpg",
     "dataStr": "QUI, 18 JUN · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 18 de Junho\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "A COPA DO MUNDO E NO OZ COMEDY",
+    "url": "https://www.sympla.com.br/evento/a-copa-do-mundo-e-no-oz-comedy/3431834",
+    "img": "https://images.sympla.com.br/6a15bddcc393a-xs.jpg",
+    "dataStr": "SEX, 19 JUN · 21:00\nA COPA DO MUNDO E NO OZ COMEDY\nOZ Comedy - Osasco, SP"
   }
 ]
