@@ -1,17 +1,5 @@
 [
   {
-    "nome": "IVANGÉLICA EM OSASCO",
-    "url": "https://www.sympla.com.br/evento/ivangelica-em-osasco/3424187",
-    "img": "https://images.sympla.com.br/6a15d5cb6d856-xs.jpg",
-    "dataStr": "QUA, 10 JUN · 21:00\nIVANGÉLICA EM OSASCO\nOZ Comedy - Osasco, SP"
-  },
-  {
-    "nome": "IVANGÉLICA EM OSASCO Sessão extra",
-    "url": "https://www.sympla.com.br/evento/ivangelica-em-osasco-sessao-extra/3446201",
-    "img": "https://images.sympla.com.br/6a202b4ae62f3-xs.jpg",
-    "dataStr": "QUA, 10 JUN · 23:00\nIVANGÉLICA EM OSASCO Sessão extra\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 11 de Junho",
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-11-de-junho/3431750",
     "img": "https://images.sympla.com.br/6a26c4741fdbb-xs.png",
@@ -46,5 +34,17 @@
     "url": "https://www.sympla.com.br/evento/a-copa-do-mundo-e-no-oz-comedy/3431834",
     "img": "https://images.sympla.com.br/6a15bddcc393a-xs.jpg",
     "dataStr": "SEX, 19 JUN · 21:00\nA COPA DO MUNDO E NO OZ COMEDY\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "ROGÉRIO MORGADO EM OSASCO - STAND UP COMEDY",
+    "url": "https://www.sympla.com.br/evento/rogerio-morgado-em-osasco-stand-up-comedy/3439500",
+    "img": "https://images.sympla.com.br/6a149a261a51b-xs.jpg",
+    "dataStr": "SAB, 20 JUN · 21:00\nROGÉRIO MORGADO EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "A COPA DO MUNDO 2026 VAI SER NO OZ COMEDY!",
+    "url": "https://www.sympla.com.br/evento/a-copa-do-mundo-2026-vai-ser-no-oz-comedy/3438013",
+    "img": "https://images.sympla.com.br/6a132280670d7-xs.jpg",
+    "dataStr": "QUA, 24 JUN · 19:00\nA COPA DO MUNDO 2026 VAI SER NO OZ COMEDY!\nOZ Comedy - Osasco, SP"
   }
 ]
