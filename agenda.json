@@ -1,11 +1,5 @@
 [
   {
-    "nome": "KEDNY SILVA EM OSASCO - TERAPIA DE CASAL",
-    "url": "https://www.sympla.com.br/evento/kedny-silva-em-osasco-terapia-de-casal/3431821",
-    "img": "https://images.sympla.com.br/6a15bf3eb691b-xs.jpg",
-    "dataStr": "SEX, 12 JUN · 21:00\nKEDNY SILVA EM OSASCO - TERAPIA DE CASAL\nOz Comedy - Osasco, SP"
-  },
-  {
     "nome": "A COPA DO MUNDO 2026 VAI SER NO OZ COMEDY!",
     "url": "https://www.sympla.com.br/evento/a-copa-do-mundo-2026-vai-ser-no-oz-comedy/3431828",
     "img": "https://images.sympla.com.br/6a13220b80352-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/magicamente-em-osasco-stand-up-comedy/3450084",
     "img": "https://images.sympla.com.br/6a1f32444f9e4-xs.jpg",
     "dataStr": "QUI, 25 JUN · 21:00\nMAGICAMENTE EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "LEANDRO LEITTE em Osasco, SP Hetero Afeminado",
+    "url": "https://www.sympla.com.br/evento/leandro-leitte-em-osasco-sp-hetero-afeminado/3431836",
+    "img": "https://images.sympla.com.br/6a202b019fb0e-xs.jpg",
+    "dataStr": "SEX, 26 JUN · 21:00\nLEANDRO LEITTE em Osasco, SP Hetero Afeminado\nOZ Comedy - Osasco, SP"
   }
 ]
