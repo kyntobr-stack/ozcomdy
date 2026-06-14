@@ -1,11 +1,5 @@
 [
   {
-    "nome": "A COPA DO MUNDO 2026 VAI SER NO OZ COMEDY!",
-    "url": "https://www.sympla.com.br/evento/a-copa-do-mundo-2026-vai-ser-no-oz-comedy/3431828",
-    "img": "https://images.sympla.com.br/6a13220b80352-xs.jpg",
-    "dataStr": "SAB, 13 JUN · 21:30\nA COPA DO MUNDO 2026 VAI SER NO OZ COMEDY!\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "GIOVANA FAGUNDES EM OSASCO - TESTANDO NOVO SHOW",
     "url": "https://www.sympla.com.br/evento/giovana-fagundes-em-osasco-testando-novo-show/3451467",
     "img": "https://images.sympla.com.br/6a2026176ac55-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/leandro-leitte-em-osasco-sp-hetero-afeminado/3431836",
     "img": "https://images.sympla.com.br/6a202b019fb0e-xs.jpg",
     "dataStr": "SEX, 26 JUN · 21:00\nLEANDRO LEITTE em Osasco, SP Hetero Afeminado\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "DANIEL DUNCAN EM OSASCO - 27/06",
+    "url": "https://www.sympla.com.br/evento/daniel-duncan-em-osasco-27-06/3418512",
+    "img": "https://images.sympla.com.br/6a202b2bb4968-xs.jpg",
+    "dataStr": "SAB, 27 JUN · 21:00\nDANIEL DUNCAN EM OSASCO - 27/06\nOZ Comedy - Osasco, SP"
   }
 ]
