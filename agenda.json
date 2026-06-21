@@ -1,11 +1,5 @@
 [
   {
-    "nome": "ROGÉRIO MORGADO EM OSASCO - STAND UP COMEDY",
-    "url": "https://www.sympla.com.br/evento/rogerio-morgado-em-osasco-stand-up-comedy/3439500",
-    "img": "https://images.sympla.com.br/6a149a261a51b-xs.jpg",
-    "dataStr": "SAB, 20 JUN · 21:00\nROGÉRIO MORGADO EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "A COPA DO MUNDO 2026 VAI SER NO OZ COMEDY!",
     "url": "https://www.sympla.com.br/evento/a-copa-do-mundo-2026-vai-ser-no-oz-comedy/3438013",
     "img": "https://images.sympla.com.br/6a132280670d7-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-09-de-julho/3465497",
     "img": "https://images.sympla.com.br/6a315f757cc80-xs.jpg",
     "dataStr": "QUI, 09 JUL · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 09 de julho\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "10orientados (Danilo Giacomini e Gustavo Mendes)",
+    "url": "https://www.sympla.com.br/evento/10orientados-danilo-giacomini-e-gustavo-mendes/3465507",
+    "img": "https://images.sympla.com.br/6a301fb483373-xs.jpg",
+    "dataStr": "SEX, 10 JUL · 21:00\n10orientados (Danilo Giacomini e Gustavo Mendes)\nOz Comedy - Osasco, SP"
   }
 ]
