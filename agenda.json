@@ -1,11 +1,5 @@
 [
   {
-    "nome": "A COPA DO MUNDO 2026 VAI SER NO OZ COMEDY!",
-    "url": "https://www.sympla.com.br/evento/a-copa-do-mundo-2026-vai-ser-no-oz-comedy/3438013",
-    "img": "https://images.sympla.com.br/6a132280670d7-xs.jpg",
-    "dataStr": "QUA, 24 JUN · 19:00\nA COPA DO MUNDO 2026 VAI SER NO OZ COMEDY!\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "MAGICAMENTE EM OSASCO - STAND UP COMEDY",
     "url": "https://www.sympla.com.br/evento/magicamente-em-osasco-stand-up-comedy/3450084",
     "img": "https://images.sympla.com.br/6a1f32444f9e4-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/10orientados-danilo-giacomini-e-gustavo-mendes/3465507",
     "img": "https://images.sympla.com.br/6a301fb483373-xs.jpg",
     "dataStr": "SEX, 10 JUL · 21:00\n10orientados (Danilo Giacomini e Gustavo Mendes)\nOz Comedy - Osasco, SP"
+  },
+  {
+    "nome": "CRISS PAIVA EM OSASCO - STAND UP COMEDY",
+    "url": "https://www.sympla.com.br/evento/criss-paiva-em-osasco-stand-up-comedy/3465514",
+    "img": "https://images.sympla.com.br/6a316020affa2-xs.jpg",
+    "dataStr": "SAB, 11 JUL · 21:00\nCRISS PAIVA EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
   }
 ]
