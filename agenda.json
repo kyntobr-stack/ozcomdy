@@ -1,11 +1,5 @@
 [
   {
-    "nome": "LEANDRO LEITTE em Osasco, SP Hetero Afeminado",
-    "url": "https://www.sympla.com.br/evento/leandro-leitte-em-osasco-sp-hetero-afeminado/3431836",
-    "img": "https://images.sympla.com.br/6a202b019fb0e-xs.jpg",
-    "dataStr": "SEX, 26 JUN · 21:00\nLEANDRO LEITTE em Osasco, SP Hetero Afeminado\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "DANIEL DUNCAN EM OSASCO - 27/06",
     "url": "https://www.sympla.com.br/evento/daniel-duncan-em-osasco-27-06/3418512",
     "img": "https://images.sympla.com.br/6a202b2bb4968-xs.jpg",
@@ -24,12 +18,6 @@
     "dataStr": "SEX, 03 JUL · 21:00\nMARCELO DUQUE EM OSASCO - SEM FILTRO\nOZ Comedy - Osasco, SP"
   },
   {
-    "nome": "PASTOR MACHADO, MAGNO MARTINS EM OSASCO",
-    "url": "https://www.sympla.com.br/evento/pastor-machado-magno-martins-em-osasco/3464235",
-    "img": "https://images.sympla.com.br/6a317074cda39-xs.png",
-    "dataStr": "SAB, 04 JUL · 21:00\nPASTOR MACHADO, MAGNO MARTINS EM OSASCO\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 09 de julho",
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-09-de-julho/3465497",
     "img": "https://images.sympla.com.br/6a315f757cc80-xs.jpg",
@@ -46,5 +34,17 @@
     "url": "https://www.sympla.com.br/evento/criss-paiva-em-osasco-stand-up-comedy/3465514",
     "img": "https://images.sympla.com.br/6a316020affa2-xs.jpg",
     "dataStr": "SAB, 11 JUL · 21:00\nCRISS PAIVA EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Dois irmãoes em Aí Cê Me Quebra O Show",
+    "url": "https://www.sympla.com.br/evento/dois-irmaoes-em-ai-ce-me-quebra-o-show/3458804",
+    "img": "https://images.sympla.com.br/6a316f6ade6ea-xs.jpg",
+    "dataStr": "QUI, 16 JUL · 21:00\nDois irmãoes em Aí Cê Me Quebra O Show\nOz Comedy - Osasco, SP"
+  },
+  {
+    "nome": "André Assunção ENTRE CÃES E GATOS",
+    "url": "https://www.sympla.com.br/evento/andre-assuncao-entre-caes-e-gatos/3466001",
+    "img": "https://images.sympla.com.br/6a3160b9cecc4-xs.jpg",
+    "dataStr": "SAB, 18 JUL · 21:00\nAndré Assunção ENTRE CÃES E GATOS\nOZ Comedy - Osasco, SP"
   }
 ]
