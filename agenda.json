@@ -1,11 +1,5 @@
 [
   {
-    "nome": "DANIEL DUNCAN EM OSASCO - 27/06",
-    "url": "https://www.sympla.com.br/evento/daniel-duncan-em-osasco-27-06/3418512",
-    "img": "https://images.sympla.com.br/6a202b2bb4968-xs.jpg",
-    "dataStr": "SAB, 27 JUN · 21:00\nDANIEL DUNCAN EM OSASCO - 27/06\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "YURI MARÇAL EM OSASCO - VIROU PASSEIO",
     "url": "https://www.sympla.com.br/evento/yuri-marcal-em-osasco-virou-passeio/3461500",
     "img": "https://images.sympla.com.br/6a3ad8ed8b405-xs.png",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/andre-assuncao-entre-caes-e-gatos/3466001",
     "img": "https://images.sympla.com.br/6a3160b9cecc4-xs.jpg",
     "dataStr": "SAB, 18 JUL · 21:00\nAndré Assunção ENTRE CÃES E GATOS\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 23 de julho",
+    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-23-de-julho/3467787",
+    "img": "https://images.sympla.com.br/6a31955c0632d-xs.jpg",
+    "dataStr": "QUI, 23 JUL · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 23 de julho\nOZ Comedy - Osasco, SP"
   }
 ]
