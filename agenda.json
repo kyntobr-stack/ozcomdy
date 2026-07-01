@@ -12,6 +12,12 @@
     "dataStr": "SEX, 03 JUL · 21:00\nMARCELO DUQUE EM OSASCO - SEM FILTRO\nOZ Comedy - Osasco, SP"
   },
   {
+    "nome": "PASTOR MACHADO, MAGNO MARTINS EM OSASCO",
+    "url": "https://www.sympla.com.br/evento/pastor-machado-magno-martins-em-osasco/3464235",
+    "img": "https://images.sympla.com.br/6a317074cda39-xs.png",
+    "dataStr": "SAB, 04 JUL · 21:00\nPASTOR MACHADO, MAGNO MARTINS EM OSASCO\nOZ Comedy - Osasco, SP"
+  },
+  {
     "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 09 de julho",
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-09-de-julho/3465497",
     "img": "https://images.sympla.com.br/6a315f757cc80-xs.jpg",
@@ -40,11 +46,5 @@
     "url": "https://www.sympla.com.br/evento/andre-assuncao-entre-caes-e-gatos/3466001",
     "img": "https://images.sympla.com.br/6a3160b9cecc4-xs.jpg",
     "dataStr": "SAB, 18 JUL · 21:00\nAndré Assunção ENTRE CÃES E GATOS\nOZ Comedy - Osasco, SP"
-  },
-  {
-    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 23 de julho",
-    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-23-de-julho/3467787",
-    "img": "https://images.sympla.com.br/6a31955c0632d-xs.jpg",
-    "dataStr": "QUI, 23 JUL · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 23 de julho\nOZ Comedy - Osasco, SP"
   }
 ]
