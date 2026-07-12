@@ -1,11 +1,5 @@
 [
   {
-    "nome": "CRISS PAIVA EM OSASCO - STAND UP COMEDY",
-    "url": "https://www.sympla.com.br/evento/criss-paiva-em-osasco-stand-up-comedy/3465514",
-    "img": "https://images.sympla.com.br/6a316020affa2-xs.jpg",
-    "dataStr": "SAB, 11 JUL · 21:00\nCRISS PAIVA EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "Dois irmãoes em Aí Cê Me Quebra O Show",
     "url": "https://www.sympla.com.br/evento/dois-irmaoes-em-ai-ce-me-quebra-o-show/3458804",
     "img": "https://images.sympla.com.br/6a316f6ade6ea-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/nil-agra-em-40-anos-zero-paciencia/3464232",
     "img": "https://images.sympla.com.br/6a318f8a280f2-xs.jpg",
     "dataStr": "SEX, 31 JUL · 21:00\nNIL AGRA EM 40 ANOS ZERO PACIÊNCIA\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "MAGICAMENTE EM OSASCO - STAND UP COMEDY",
+    "url": "https://www.sympla.com.br/evento/magicamente-em-osasco-stand-up-comedy/3476479",
+    "img": "https://images.sympla.com.br/6a3adc3ab371d-xs.png",
+    "dataStr": "QUI, 06 AGO · 21:00\nMAGICAMENTE EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
   }
 ]
