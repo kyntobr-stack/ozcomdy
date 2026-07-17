@@ -1,11 +1,5 @@
 [
   {
-    "nome": "Dois irmãoes em Aí Cê Me Quebra O Show",
-    "url": "https://www.sympla.com.br/evento/dois-irmaoes-em-ai-ce-me-quebra-o-show/3458804",
-    "img": "https://images.sympla.com.br/6a316f6ade6ea-xs.jpg",
-    "dataStr": "QUI, 16 JUL · 21:00\nDois irmãoes em Aí Cê Me Quebra O Show\nOz Comedy - Osasco, SP"
-  },
-  {
     "nome": "André Assunção ENTRE CÃES E GATOS",
     "url": "https://www.sympla.com.br/evento/andre-assuncao-entre-caes-e-gatos/3466001",
     "img": "https://images.sympla.com.br/6a3160b9cecc4-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/magicamente-em-osasco-stand-up-comedy/3476479",
     "img": "https://images.sympla.com.br/6a3adc3ab371d-xs.png",
     "dataStr": "QUI, 06 AGO · 21:00\nMAGICAMENTE EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "NINY MAGALHÃES em as Minas do fundão",
+    "url": "https://www.sympla.com.br/evento/niny-magalhaes-em-as-minas-do-fundao/3477433",
+    "img": "https://images.sympla.com.br/6a566a160617b-xs.jpg",
+    "dataStr": "SAB, 08 AGO · 21:00\nNINY MAGALHÃES em as Minas do fundão\nOz Comedy - Osasco, SP"
   }
 ]
