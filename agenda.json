@@ -1,11 +1,5 @@
 [
   {
-    "nome": "André Assunção ENTRE CÃES E GATOS",
-    "url": "https://www.sympla.com.br/evento/andre-assuncao-entre-caes-e-gatos/3466001",
-    "img": "https://images.sympla.com.br/6a3160b9cecc4-xs.jpg",
-    "dataStr": "SAB, 18 JUL · 21:00\nAndré Assunção ENTRE CÃES E GATOS\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 23 de julho",
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-23-de-julho/3467787",
     "img": "https://images.sympla.com.br/6a31955c0632d-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/niny-magalhaes-em-as-minas-do-fundao/3477433",
     "img": "https://images.sympla.com.br/6a566a160617b-xs.jpg",
     "dataStr": "SAB, 08 AGO · 21:00\nNINY MAGALHÃES em as Minas do fundão\nOz Comedy - Osasco, SP"
+  },
+  {
+    "nome": "MAGICAMENTE EM OSASCO - STAND UP COMEDY",
+    "url": "https://www.sympla.com.br/evento/magicamente-em-osasco-stand-up-comedy/3476487",
+    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "dataStr": "SEX, 21 AGO · 21:00\nMAGICAMENTE EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
   }
 ]
