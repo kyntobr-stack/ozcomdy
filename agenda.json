@@ -1,27 +1,9 @@
 [
   {
-    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 23 de julho",
-    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-23-de-julho/3467787",
-    "img": "https://images.sympla.com.br/6a31955c0632d-xs.jpg",
-    "dataStr": "QUI, 23 JUL · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 23 de julho\nOZ Comedy - Osasco, SP"
-  },
-  {
-    "nome": "VICTOR BRITO (TÔ RINDO PARA NÃO ENDOIDAR)",
-    "url": "https://www.sympla.com.br/evento/victor-brito-to-rindo-para-nao-endoidar/3480422",
-    "img": "https://images.sympla.com.br/6a3e96bbdc1c9-xs.jpg",
-    "dataStr": "SEX, 24 JUL · 21:00\nVICTOR BRITO (TÔ RINDO PARA NÃO ENDOIDAR)\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "UMBANDA COMEDY EM OSASCO",
     "url": "https://www.sympla.com.br/evento/umbanda-comedy-em-osasco/3469781",
     "img": "https://images.sympla.com.br/6a3cad531de9f-xs.jpg",
     "dataStr": "SAB, 25 JUL · 21:00\nUMBANDA COMEDY EM OSASCO\nOZ Comedy - Osasco, SP"
-  },
-  {
-    "nome": "EPAMINONDAS EM OSASCO - DA PONTE PRA LÁ",
-    "url": "https://www.sympla.com.br/evento/epaminondas-em-osasco-da-ponte-pra-la/3467838",
-    "img": "https://images.sympla.com.br/6a3199beb7606-xs.jpg",
-    "dataStr": "QUI, 30 JUL · 21:00\nEPAMINONDAS EM OSASCO - DA PONTE PRA LÁ\nOZ Comedy - Osasco, SP"
   },
   {
     "nome": "NIL AGRA EM 40 ANOS ZERO PACIÊNCIA",
@@ -32,7 +14,7 @@
   {
     "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 01 de agosto",
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-01-de-agosto/3511114",
-    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "img": "https://images.sympla.com.br/6a6252c927e17-xs.jpg",
     "dataStr": "SAB, 01 AGO · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 01 de agosto\nOZ Comedy - Osasco, SP"
   },
   {
@@ -44,7 +26,25 @@
   {
     "nome": "NINY MAGALHÃES em as Minas do fundão",
     "url": "https://www.sympla.com.br/evento/niny-magalhaes-em-as-minas-do-fundao/3477433",
-    "img": "https://images.sympla.com.br/6a566a160617b-xs.jpg",
+    "img": "https://images.sympla.com.br/6a62601ae9795-xs.jpg",
     "dataStr": "SAB, 08 AGO · 21:00\nNINY MAGALHÃES em as Minas do fundão\nOz Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco",
+    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco/3512980",
+    "img": "https://images.sympla.com.br/6a6262b039a70-xs.jpg",
+    "dataStr": "QUI, 13 AGO · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "GUSTAVO JACOB EM OSASCO - um show para seres humano e profissionais de T.I",
+    "url": "https://www.sympla.com.br/evento/gustavo-jacob-em-osasco-um-show-para-seres-humano-e-profissionais-de-t-i/3512938",
+    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "dataStr": "SEX, 14 AGO · 21:00\nGUSTAVO JACOB EM OSASCO - um show para seres humano e profissionais de T.I\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "PAULO MANSUR EM OSASCO",
+    "url": "https://www.sympla.com.br/evento/paulo-mansur-em-osasco/3512942",
+    "img": "https://images.sympla.com.br/6a6261250c4e6-xs.jpg",
+    "dataStr": "SAB, 15 AGO · 21:00\nPAULO MANSUR EM OSASCO\nOZ Comedy - Osasco, SP"
   }
 ]
