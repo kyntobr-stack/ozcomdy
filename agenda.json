@@ -1,11 +1,5 @@
 [
   {
-    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 01 de agosto",
-    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-01-de-agosto/3511114",
-    "img": "https://images.sympla.com.br/6a6252c927e17-xs.jpg",
-    "dataStr": "SAB, 01 AGO · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 01 de agosto\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "MAGICAMENTE EM OSASCO - STAND UP COMEDY",
     "url": "https://www.sympla.com.br/evento/magicamente-em-osasco-stand-up-comedy/3476479",
     "img": "https://images.sympla.com.br/6a3adc3ab371d-xs.png",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/gessica-ferreira-stand-up-comedy/3512964",
     "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
     "dataStr": "QUA, 19 AGO · 21:00\nGÉSSICA FERREIRA - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 20 de agosto",
+    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-20-de-agosto/3512983",
+    "img": "https://images.sympla.com.br/6a626ed8081cf-xs.jpg",
+    "dataStr": "QUI, 20 AGO · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 20 de agosto\nOZ Comedy - Osasco, SP"
   }
 ]
