@@ -1,11 +1,5 @@
 [
   {
-    "nome": "NINY MAGALHÃES em as Minas do fundão",
-    "url": "https://www.sympla.com.br/evento/niny-magalhaes-em-as-minas-do-fundao/3477433",
-    "img": "https://images.sympla.com.br/6a62601ae9795-xs.jpg",
-    "dataStr": "SAB, 08 AGO · 21:00\nNINY MAGALHÃES em as Minas do fundão\nOz Comedy - Osasco, SP"
-  },
-  {
     "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 13 e 20 de agosto",
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-13-e-20-de-agosto/3512980",
     "img": "https://images.sympla.com.br/6a72146ce8596-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-27-de-agosto/3512914",
     "img": "https://images.sympla.com.br/6a626e114435e-xs.jpg",
     "dataStr": "QUI, 27 AGO · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 27 de agosto\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "KEDNY SILVA EM OSASCO",
+    "url": "https://www.sympla.com.br/evento/kedny-silva-em-osasco/3512988",
+    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "dataStr": "SAB, 29 AGO · 21:00\nKEDNY SILVA EM OSASCO\nOZ Comedy - Osasco, SP"
   }
 ]
