@@ -1,17 +1,5 @@
 [
   {
-    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 13 e 20 de agosto",
-    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-13-e-20-de-agosto/3512980",
-    "img": "https://images.sympla.com.br/6a72146ce8596-xs.jpg",
-    "dataStr": "QUI, 13 AGO · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 13 e 20 de agosto\nOZ Comedy - Osasco, SP"
-  },
-  {
-    "nome": "GUSTAVO JACOB EM OSASCO - um show para seres humano e profissionais de T.I",
-    "url": "https://www.sympla.com.br/evento/gustavo-jacob-em-osasco-um-show-para-seres-humano-e-profissionais-de-t-i/3512938",
-    "img": "https://images.sympla.com.br/6a68bc9e82c4d-xs.png",
-    "dataStr": "SEX, 14 AGO · 21:00\nGUSTAVO JACOB EM OSASCO - um show para seres humano e profissionais de T.I\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "PAULO MANSUR EM OSASCO",
     "url": "https://www.sympla.com.br/evento/paulo-mansur-em-osasco/3512942",
     "img": "https://images.sympla.com.br/6a73473597faa-xs.png",
@@ -22,6 +10,12 @@
     "url": "https://www.sympla.com.br/evento/gessica-ferreira-stand-up-comedy/3512964",
     "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
     "dataStr": "QUA, 19 AGO · 21:00\nGÉSSICA FERREIRA - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 20 de agosto",
+    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-20-de-agosto/3512980",
+    "img": "https://images.sympla.com.br/6a72146ce8596-xs.jpg",
+    "dataStr": "QUI, 20 AGO · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 20 de agosto\nOZ Comedy - Osasco, SP"
   },
   {
     "nome": "MAGICAMENTE EM OSASCO - STAND UP COMEDY",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/kedny-silva-em-osasco/3512988",
     "img": "https://images.sympla.com.br/6a79e1800f08e-xs.jpg",
     "dataStr": "SAB, 29 AGO · 21:00\nKEDNY SILVA EM OSASCO\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "FLÁVIO ANDRADDE EM OSASCO/SP (COMO SOBREVIVER A PROPRIA FAMILIA)",
+    "url": "https://www.sympla.com.br/evento/flavio-andradde-em-osasco-sp-como-sobreviver-a-propria-familia/3487092",
+    "img": "https://images.sympla.com.br/6a4595d3ef596-xs.jpg",
+    "dataStr": "SEX, 04 SET · 21:00\nFLÁVIO ANDRADDE EM OSASCO/SP (COMO SOBREVIVER A PROPRIA FAMILIA)\nOZ Comedy - Osasco, SP"
   }
 ]
