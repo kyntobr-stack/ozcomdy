@@ -1,11 +1,5 @@
 [
   {
-    "nome": "PAULO MANSUR EM OSASCO",
-    "url": "https://www.sympla.com.br/evento/paulo-mansur-em-osasco/3512942",
-    "img": "https://images.sympla.com.br/6a73473597faa-xs.png",
-    "dataStr": "SAB, 15 AGO · 21:00\nPAULO MANSUR EM OSASCO\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "GÉSSICA FERREIRA - STAND UP COMEDY",
     "url": "https://www.sympla.com.br/evento/gessica-ferreira-stand-up-comedy/3512964",
     "img": "https://images.sympla.com.br/6a7f11bae08a7-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/flavio-andradde-em-osasco-sp-como-sobreviver-a-propria-familia/3487092",
     "img": "https://images.sympla.com.br/6a4595d3ef596-xs.jpg",
     "dataStr": "SEX, 04 SET · 21:00\nFLÁVIO ANDRADDE EM OSASCO/SP (COMO SOBREVIVER A PROPRIA FAMILIA)\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "RAPHAEL DE CAMPOS EM OSASCO - FORA DA CAIXINHA",
+    "url": "https://www.sympla.com.br/evento/raphael-de-campos-em-osasco-fora-da-caixinha/3439653",
+    "img": "https://images.sympla.com.br/6a3e98474ba35-xs.jpg",
+    "dataStr": "SAB, 05 SET · 21:00\nRAPHAEL DE CAMPOS EM OSASCO - FORA DA CAIXINHA\nOZ Comedy - Osasco, SP"
   }
 ]
