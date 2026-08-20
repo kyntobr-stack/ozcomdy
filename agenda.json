@@ -1,11 +1,5 @@
 [
   {
-    "nome": "GÉSSICA FERREIRA - STAND UP COMEDY",
-    "url": "https://www.sympla.com.br/evento/gessica-ferreira-stand-up-comedy/3512964",
-    "img": "https://images.sympla.com.br/6a7f11bae08a7-xs.jpg",
-    "dataStr": "QUA, 19 AGO · 21:00\nGÉSSICA FERREIRA - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 20 de agosto",
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-20-de-agosto/3512980",
     "img": "https://images.sympla.com.br/6a835edecba3e-xs.png",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/raphael-de-campos-em-osasco-fora-da-caixinha/3439653",
     "img": "https://images.sympla.com.br/6a3e98474ba35-xs.jpg",
     "dataStr": "SAB, 05 SET · 21:00\nRAPHAEL DE CAMPOS EM OSASCO - FORA DA CAIXINHA\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 10 de Setembro",
+    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-10-de-setembro/3546673",
+    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "dataStr": "QUI, 10 SET · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 10 de Setembro\nOZ Comedy - Osasco, SP"
   }
 ]
