@@ -1,11 +1,5 @@
 [
   {
-    "nome": "MAGICAMENTE EM OSASCO - STAND UP COMEDY",
-    "url": "https://www.sympla.com.br/evento/magicamente-em-osasco-stand-up-comedy/3476487",
-    "img": "https://images.sympla.com.br/6a6a38c2a58f3-xs.jpg",
-    "dataStr": "SEX, 21 AGO · 21:00\nMAGICAMENTE EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "EVE MAYER em OSASCO com QUE MUNDO EU VOU DEIXAR PRO MEU FILHO?",
     "url": "https://www.sympla.com.br/evento/eve-mayer-em-osasco-com-que-mundo-eu-vou-deixar-pro-meu-filho/3468066",
     "img": "https://images.sympla.com.br/6a3cadbc50bcb-xs.jpg",
@@ -22,6 +16,12 @@
     "url": "https://www.sympla.com.br/evento/kedny-silva-em-osasco/3512988",
     "img": "https://images.sympla.com.br/6a79e1800f08e-xs.jpg",
     "dataStr": "SAB, 29 AGO · 21:00\nKEDNY SILVA EM OSASCO\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 03 de Setembro",
+    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-03-de-setembro/3549359",
+    "img": "https://images.sympla.com.br/6a8854edbc295-xs.jpg",
+    "dataStr": "QUI, 03 SET · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 03 de Setembro\nOZ Comedy - Osasco, SP"
   },
   {
     "nome": "FLÁVIO ANDRADDE EM OSASCO/SP (COMO SOBREVIVER A PROPRIA FAMILIA)",
