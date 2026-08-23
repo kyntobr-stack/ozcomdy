@@ -1,11 +1,5 @@
 [
   {
-    "nome": "EVE MAYER em OSASCO com QUE MUNDO EU VOU DEIXAR PRO MEU FILHO?",
-    "url": "https://www.sympla.com.br/evento/eve-mayer-em-osasco-com-que-mundo-eu-vou-deixar-pro-meu-filho/3468066",
-    "img": "https://images.sympla.com.br/6a3cadbc50bcb-xs.jpg",
-    "dataStr": "SAB, 22 AGO · 21:00\nEVE MAYER em OSASCO com QUE MUNDO EU VOU DEIXAR PRO MEU FILHO?\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 27 de agosto",
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-27-de-agosto/3512914",
     "img": "https://images.sympla.com.br/6a626e114435e-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/socorro-meu-atendimento-sumiu-com-professor-atendimento/3539541",
     "img": "https://images.sympla.com.br/6a7dfcf9bc46f-xs.png",
     "dataStr": "SEX, 11 SET · 21:00\nSOCORRO meu atendimento sumiu (com PROFESSOR ATENDIMENTO)\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "COMEDIA AO VIVO",
+    "url": "https://www.sympla.com.br/evento/comedia-ao-vivo/3543554",
+    "img": "https://images.sympla.com.br/6a8342091b77a-xs.jpg",
+    "dataStr": "SAB, 12 SET · 21:00\nCOMEDIA AO VIVO\nOZ Comedy - Osasco, SP"
   }
 ]
