@@ -1,21 +1,9 @@
 [
   {
-    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 27 de agosto",
-    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-27-de-agosto/3512914",
-    "img": "https://images.sympla.com.br/6a626e114435e-xs.jpg",
-    "dataStr": "QUI, 27 AGO · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 27 de agosto\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "KEDNY SILVA EM OSASCO",
     "url": "https://www.sympla.com.br/evento/kedny-silva-em-osasco/3512988",
     "img": "https://images.sympla.com.br/6a79e1800f08e-xs.jpg",
     "dataStr": "SAB, 29 AGO · 21:00\nKEDNY SILVA EM OSASCO\nOZ Comedy - Osasco, SP"
-  },
-  {
-    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 03 de Setembro",
-    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-03-de-setembro/3549359",
-    "img": "https://images.sympla.com.br/6a8854edbc295-xs.jpg",
-    "dataStr": "QUI, 03 SET · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 03 de Setembro\nOZ Comedy - Osasco, SP"
   },
   {
     "nome": "FLÁVIO ANDRADDE EM OSASCO/SP (COMO SOBREVIVER A PROPRIA FAMILIA)",
@@ -46,5 +34,17 @@
     "url": "https://www.sympla.com.br/evento/comedia-ao-vivo/3543554",
     "img": "https://images.sympla.com.br/6a8342091b77a-xs.jpg",
     "dataStr": "SAB, 12 SET · 21:00\nCOMEDIA AO VIVO\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 17 de Setembro",
+    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-17-de-setembro/3546678",
+    "img": "https://images.sympla.com.br/6a874f3e0ffe8-xs.jpg",
+    "dataStr": "QUI, 17 SET · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 17 de Setembro\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "GÉSSICA FERREIRA - STAND UP COMEDY",
+    "url": "https://www.sympla.com.br/evento/gessica-ferreira-stand-up-comedy/3548883",
+    "img": "https://images.sympla.com.br/6a876de660828-xs.jpg",
+    "dataStr": "SEX, 18 SET · 21:00\nGÉSSICA FERREIRA - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
   }
 ]
