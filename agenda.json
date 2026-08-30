@@ -1,11 +1,5 @@
 [
   {
-    "nome": "KEDNY SILVA EM OSASCO",
-    "url": "https://www.sympla.com.br/evento/kedny-silva-em-osasco/3512988",
-    "img": "https://images.sympla.com.br/6a79e1800f08e-xs.jpg",
-    "dataStr": "SAB, 29 AGO · 21:00\nKEDNY SILVA EM OSASCO\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "FLÁVIO ANDRADDE EM OSASCO/SP (COMO SOBREVIVER A PROPRIA FAMILIA)",
     "url": "https://www.sympla.com.br/evento/flavio-andradde-em-osasco-sp-como-sobreviver-a-propria-familia/3487092",
     "img": "https://images.sympla.com.br/6a4595d3ef596-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/gessica-ferreira-stand-up-comedy/3548883",
     "img": "https://images.sympla.com.br/6a876de660828-xs.jpg",
     "dataStr": "SEX, 18 SET · 21:00\nGÉSSICA FERREIRA - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Robson Nunes em (AFRO BEGE)",
+    "url": "https://www.sympla.com.br/evento/robson-nunes-em-afro-bege/3553612",
+    "img": "https://images.sympla.com.br/6a8da87247ba8-xs.jpg",
+    "dataStr": "SAB, 19 SET · 21:00\nRobson Nunes em (AFRO BEGE)\nOZ Comedy - Osasco, SP"
   }
 ]
