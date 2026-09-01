@@ -30,12 +30,6 @@
     "dataStr": "SAB, 12 SET · 21:00\nCOMEDIA AO VIVO\nOZ Comedy - Osasco, SP"
   },
   {
-    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 17 de Setembro",
-    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-17-de-setembro/3546678",
-    "img": "https://images.sympla.com.br/6a874f3e0ffe8-xs.jpg",
-    "dataStr": "QUI, 17 SET · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 17 de Setembro\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "GÉSSICA FERREIRA - STAND UP COMEDY",
     "url": "https://www.sympla.com.br/evento/gessica-ferreira-stand-up-comedy/3548883",
     "img": "https://images.sympla.com.br/6a876de660828-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/robson-nunes-em-afro-bege/3553612",
     "img": "https://images.sympla.com.br/6a8da87247ba8-xs.jpg",
     "dataStr": "SAB, 19 SET · 21:00\nRobson Nunes em (AFRO BEGE)\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "JÚNIOR CHICÓ EM OSASCO - STAND UP COMEDY",
+    "url": "https://www.sympla.com.br/evento/junior-chico-em-osasco-stand-up-comedy/3555140",
+    "img": "https://images.sympla.com.br/6a8ef498866cb-xs.jpg",
+    "dataStr": "SEX, 25 SET · 21:00\nJÚNIOR CHICÓ EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
   }
 ]
