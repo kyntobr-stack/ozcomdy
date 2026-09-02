@@ -30,12 +30,6 @@
     "dataStr": "SAB, 12 SET · 21:00\nCOMEDIA AO VIVO\nOZ Comedy - Osasco, SP"
   },
   {
-    "nome": "GÉSSICA FERREIRA - STAND UP COMEDY",
-    "url": "https://www.sympla.com.br/evento/gessica-ferreira-stand-up-comedy/3548883",
-    "img": "https://images.sympla.com.br/6a876de660828-xs.jpg",
-    "dataStr": "SEX, 18 SET · 21:00\nGÉSSICA FERREIRA - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "Robson Nunes em (AFRO BEGE)",
     "url": "https://www.sympla.com.br/evento/robson-nunes-em-afro-bege/3553612",
     "img": "https://images.sympla.com.br/6a8da87247ba8-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/junior-chico-em-osasco-stand-up-comedy/3555140",
     "img": "https://images.sympla.com.br/6a8ef498866cb-xs.jpg",
     "dataStr": "SEX, 25 SET · 21:00\nJÚNIOR CHICÓ EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "MARCELO DUQUE EM OSASCO - SEM FILTRO",
+    "url": "https://www.sympla.com.br/evento/marcelo-duque-em-osasco-sem-filtro/3552213",
+    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "dataStr": "SEX, 09 OUT · 21:00\nMARCELO DUQUE EM OSASCO - SEM FILTRO\nOZ Comedy - Osasco, SP"
   }
 ]
