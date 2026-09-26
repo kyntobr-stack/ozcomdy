@@ -1,11 +1,5 @@
 [
   {
-    "nome": "JÚNIOR CHICÓ EM OSASCO - STAND UP COMEDY",
-    "url": "https://www.sympla.com.br/evento/junior-chico-em-osasco-stand-up-comedy/3555140",
-    "img": "https://images.sympla.com.br/6a8ef498866cb-xs.jpg",
-    "dataStr": "SEX, 25 SET · 21:00\nJÚNIOR CHICÓ EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "KEDNY SILVA EM OSASCO",
     "url": "https://www.sympla.com.br/evento/kedny-silva-em-osasco/3560639",
     "img": "https://images.sympla.com.br/6a9590816b096-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/richard-sakamoto-e-rodrigo-bzera-perguntinha-show/3587729",
     "img": "https://images.sympla.com.br/6ab3cd7d9f6e6-xs.jpg",
     "dataStr": "SAB, 10 OUT · 21:00\nRICHARD SAKAMOTO e RODRIGO BZERÁ (PERGUNTINHA SHOW)\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Peixoto apresenta (Ho Gloooria!!)",
+    "url": "https://www.sympla.com.br/evento/peixoto-apresenta-ho-gloooria/3571106",
+    "img": "https://images.sympla.com.br/6ab3ce70742d3-xs.jpg",
+    "dataStr": "QUI, 15 OUT · 21:00\nPeixoto apresenta (Ho Gloooria!!)\nOZ Comedy - Osasco, SP"
   }
 ]
