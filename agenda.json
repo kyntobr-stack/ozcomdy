@@ -1,21 +1,9 @@
 [
   {
-    "nome": "KEDNY SILVA EM OSASCO",
-    "url": "https://www.sympla.com.br/evento/kedny-silva-em-osasco/3560639",
-    "img": "https://images.sympla.com.br/6a9590816b096-xs.jpg",
-    "dataStr": "SAB, 26 SET · 21:00\nKEDNY SILVA EM OSASCO\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "TATA MENDONÇA uma Cega Visíonaria",
     "url": "https://www.sympla.com.br/evento/tata-mendonca-uma-cega-visionaria/3570649",
     "img": "https://images.sympla.com.br/6aa04f8dc30bb-xs.jpg",
     "dataStr": "QUA, 30 SET · 21:00\nTATA MENDONÇA uma Cega Visíonaria\nOZ Comedy - Osasco, SP"
-  },
-  {
-    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 01 de outubro",
-    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-01-de-outubro/3587720",
-    "img": "https://images.sympla.com.br/6ab3cb5da23df-xs.jpg",
-    "dataStr": "QUI, 01 OUT · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 01 de outubro\nOZ Comedy - Osasco, SP"
   },
   {
     "nome": "ARIANNA NUTT EM OSASCO",
@@ -46,5 +34,17 @@
     "url": "https://www.sympla.com.br/evento/peixoto-apresenta-ho-gloooria/3571106",
     "img": "https://images.sympla.com.br/6ab3ce70742d3-xs.jpg",
     "dataStr": "QUI, 15 OUT · 21:00\nPeixoto apresenta (Ho Gloooria!!)\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "O MENINO DO RH (em acumulando funções)",
+    "url": "https://www.sympla.com.br/evento/o-menino-do-rh-em-acumulando-funcoes/3587736",
+    "img": "https://images.sympla.com.br/6ab3cea375cfe-xs.jpg",
+    "dataStr": "TER, 20 OUT · 21:00\nO MENINO DO RH (em acumulando funções)\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "ROMINHO BRAGA EM OSASCO - ADIVINHA QUEM É?",
+    "url": "https://www.sympla.com.br/evento/rominho-braga-em-osasco-adivinha-quem-e/3587738",
+    "img": "https://images.sympla.com.br/6ab3cfa065527-xs.jpg",
+    "dataStr": "SEX, 23 OUT · 21:00\nROMINHO BRAGA EM OSASCO - ADIVINHA QUEM É?\nOZ Comedy - Osasco, SP"
   }
 ]
