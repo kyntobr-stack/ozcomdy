@@ -12,6 +12,12 @@
     "dataStr": "SEX, 02 OUT · 21:00\nARIANNA NUTT EM OSASCO\nOZ Comedy - Osasco, SP"
   },
   {
+    "nome": "NOITE DA COMEDIA (SHOW ELENCO)",
+    "url": "https://www.sympla.com.br/evento/noite-da-comedia-show-elenco/3587838",
+    "img": "https://images.sympla.com.br/6ab650627f06b-xs.jpg",
+    "dataStr": "SAB, 03 OUT · 21:30\nNOITE DA COMEDIA (SHOW ELENCO)\nOz Comedy - Osasco, SP"
+  },
+  {
     "nome": "SOCORRO meu atendimento sumiu (com PROFESSOR ATENDIMENTO)",
     "url": "https://www.sympla.com.br/evento/socorro-meu-atendimento-sumiu-com-professor-atendimento/3539541",
     "img": "https://images.sympla.com.br/6aa9508d1a154-xs.jpg",
@@ -40,11 +46,5 @@
     "url": "https://www.sympla.com.br/evento/o-menino-do-rh-em-acumulando-funcoes/3587736",
     "img": "https://images.sympla.com.br/6ab3cea375cfe-xs.jpg",
     "dataStr": "TER, 20 OUT · 21:00\nO MENINO DO RH (em acumulando funções)\nOZ Comedy - Osasco, SP"
-  },
-  {
-    "nome": "ROMINHO BRAGA EM OSASCO - ADIVINHA QUEM É?",
-    "url": "https://www.sympla.com.br/evento/rominho-braga-em-osasco-adivinha-quem-e/3587738",
-    "img": "https://images.sympla.com.br/6ab3cfa065527-xs.jpg",
-    "dataStr": "SEX, 23 OUT · 21:00\nROMINHO BRAGA EM OSASCO - ADIVINHA QUEM É?\nOZ Comedy - Osasco, SP"
   }
 ]
