@@ -1,11 +1,5 @@
 [
   {
-    "nome": "TATA MENDONÇA uma Cega Visíonaria",
-    "url": "https://www.sympla.com.br/evento/tata-mendonca-uma-cega-visionaria/3570649",
-    "img": "https://images.sympla.com.br/6aa04f8dc30bb-xs.jpg",
-    "dataStr": "QUA, 30 SET · 21:00\nTATA MENDONÇA uma Cega Visíonaria\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "ARIANNA NUTT EM OSASCO",
     "url": "https://www.sympla.com.br/evento/arianna-nutt-em-osasco/3564791",
     "img": "https://images.sympla.com.br/6ab53f88d41b7-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/o-menino-do-rh-em-acumulando-funcoes/3587736",
     "img": "https://images.sympla.com.br/6ab3cea375cfe-xs.jpg",
     "dataStr": "TER, 20 OUT · 21:00\nO MENINO DO RH (em acumulando funções)\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "TATA MENDONÇA uma Cega Visíonaria",
+    "url": "https://www.sympla.com.br/evento/tata-mendonca-uma-cega-visionaria/3570649",
+    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "dataStr": "QUI, 22 OUT · 21:00\nTATA MENDONÇA uma Cega Visíonaria\nOZ Comedy - Osasco, SP"
   }
 ]
