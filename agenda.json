@@ -1,11 +1,5 @@
 [
   {
-    "nome": "ARIANNA NUTT EM OSASCO",
-    "url": "https://www.sympla.com.br/evento/arianna-nutt-em-osasco/3564791",
-    "img": "https://images.sympla.com.br/6ab53f88d41b7-xs.jpg",
-    "dataStr": "SEX, 02 OUT · 21:00\nARIANNA NUTT EM OSASCO\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "NOITE DA COMEDIA (SHOW ELENCO)",
     "url": "https://www.sympla.com.br/evento/noite-da-comedia-show-elenco/3587838",
     "img": "https://images.sympla.com.br/6ab650627f06b-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/tata-mendonca-uma-cega-visionaria/3570649",
     "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
     "dataStr": "QUI, 22 OUT · 21:00\nTATA MENDONÇA uma Cega Visíonaria\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "FELIPE KOT em ( Lei de MURPHY)",
+    "url": "https://www.sympla.com.br/evento/felipe-kot-em-lei-de-murphy/3566478",
+    "img": "https://images.sympla.com.br/6ab3cfc6cf512-xs.jpg",
+    "dataStr": "SAB, 24 OUT · 21:00\nFELIPE KOT em ( Lei de MURPHY)\nOZ Comedy - Osasco, SP"
   }
 ]
