@@ -1,11 +1,5 @@
 [
   {
-    "nome": "NOITE DA COMEDIA (SHOW ELENCO)",
-    "url": "https://www.sympla.com.br/evento/noite-da-comedia-show-elenco/3587838",
-    "img": "https://images.sympla.com.br/6ab650627f06b-xs.jpg",
-    "dataStr": "SAB, 03 OUT · 21:30\nNOITE DA COMEDIA (SHOW ELENCO)\nOz Comedy - Osasco, SP"
-  },
-  {
     "nome": "SOCORRO meu atendimento sumiu (com PROFESSOR ATENDIMENTO)",
     "url": "https://www.sympla.com.br/evento/socorro-meu-atendimento-sumiu-com-professor-atendimento/3539541",
     "img": "https://images.sympla.com.br/6aa9508d1a154-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/felipe-kot-em-lei-de-murphy/3566478",
     "img": "https://images.sympla.com.br/6ab3cfc6cf512-xs.jpg",
     "dataStr": "SAB, 24 OUT · 21:00\nFELIPE KOT em ( Lei de MURPHY)\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 29 de outubro",
+    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-29-de-outubro/3587753",
+    "img": "https://images.sympla.com.br/6ab3d0e1167b0-xs.jpg",
+    "dataStr": "QUI, 29 OUT · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 29 de outubro\nOZ Comedy - Osasco, SP"
   }
 ]
