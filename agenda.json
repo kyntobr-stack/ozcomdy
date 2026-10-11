@@ -1,11 +1,5 @@
 [
   {
-    "nome": "RICHARD SAKAMOTO e RODRIGO BZERÁ (PERGUNTINHA SHOW)",
-    "url": "https://www.sympla.com.br/evento/richard-sakamoto-e-rodrigo-bzera-perguntinha-show/3587729",
-    "img": "https://images.sympla.com.br/6ab3cd7d9f6e6-xs.jpg",
-    "dataStr": "SAB, 10 OUT · 21:00\nRICHARD SAKAMOTO e RODRIGO BZERÁ (PERGUNTINHA SHOW)\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "Peixoto apresenta (Ho Gloooria!!)",
     "url": "https://www.sympla.com.br/evento/peixoto-apresenta-ho-gloooria/3571106",
     "img": "https://images.sympla.com.br/6ab3ce70742d3-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/nando-viana-em-a-vontade/3587866",
     "img": "https://images.sympla.com.br/6ab3d19f25d62-xs.jpg",
     "dataStr": "SEX, 30 OUT · 21:00\nNANDO VIANA EM (Á vontade)\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "4 amigles Pela primeira vez em Osasco",
+    "url": "https://www.sympla.com.br/evento/4-amigles-pela-primeira-vez-em-osasco/3587870",
+    "img": "https://images.sympla.com.br/6ab2cda0b92d7-xs.jpg",
+    "dataStr": "SAB, 31 OUT · 21:00\n4 amigles Pela primeira vez em Osasco\nOZ Comedy - Osasco, SP"
   }
 ]
