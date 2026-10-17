@@ -1,11 +1,5 @@
 [
   {
-    "nome": "NIZO NETO EM (ATROCIDADES)",
-    "url": "https://www.sympla.com.br/evento/nizo-neto-em-atrocidades/3610919",
-    "img": "https://images.sympla.com.br/6ac69b6515714-xs.jpg",
-    "dataStr": "SAB, 17 OUT · 21:00\nNIZO NETO EM (ATROCIDADES)\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "YURI MARÇAL EM OSASCO",
     "url": "https://www.sympla.com.br/evento/yuri-marcal-em-osasco/3619580",
     "img": "https://images.sympla.com.br/6ad0e1daa1e68-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/4-amigles-pela-primeira-vez-em-osasco/3587870",
     "img": "https://images.sympla.com.br/6ab2cda0b92d7-xs.jpg",
     "dataStr": "SAB, 31 OUT · 21:00\n4 amigles Pela primeira vez em Osasco\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "FLÁVIO ANDRADDE EM OSASCO/SP (COMO SOBREVIVER A PROPRIA FAMILIA)",
+    "url": "https://www.sympla.com.br/evento/flavio-andradde-em-osasco-sp-como-sobreviver-a-propria-familia/3594840",
+    "img": "https://images.sympla.com.br/6ac688b8d696e-xs.png",
+    "dataStr": "DOM, 01 NOV · 21:00\nFLÁVIO ANDRADDE EM OSASCO/SP (COMO SOBREVIVER A PROPRIA FAMILIA)\nOZ Comedy - Osasco, SP"
   }
 ]
