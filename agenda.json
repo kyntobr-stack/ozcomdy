@@ -1,11 +1,5 @@
 [
   {
-    "nome": "YURI MARÇAL EM OSASCO",
-    "url": "https://www.sympla.com.br/evento/yuri-marcal-em-osasco/3619580",
-    "img": "https://images.sympla.com.br/6ad0e1daa1e68-xs.jpg",
-    "dataStr": "SEG, 19 OUT · 21:00\nYURI MARÇAL EM OSASCO\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "O MENINO DO RH (em acumulando funções)",
     "url": "https://www.sympla.com.br/evento/o-menino-do-rh-em-acumulando-funcoes/3587736",
     "img": "https://images.sympla.com.br/6ab3cea375cfe-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/flavio-andradde-em-osasco-sp-como-sobreviver-a-propria-familia/3594840",
     "img": "https://images.sympla.com.br/6ac688b8d696e-xs.png",
     "dataStr": "DOM, 01 NOV · 21:00\nFLÁVIO ANDRADDE EM OSASCO/SP (COMO SOBREVIVER A PROPRIA FAMILIA)\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 05 de novembro",
+    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-05-de-novembro/3594842",
+    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "dataStr": "QUI, 05 NOV · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 05 de novembro\nOZ Comedy - Osasco, SP"
   }
 ]
