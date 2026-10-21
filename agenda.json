@@ -1,11 +1,5 @@
 [
   {
-    "nome": "O MENINO DO RH (em acumulando funções)",
-    "url": "https://www.sympla.com.br/evento/o-menino-do-rh-em-acumulando-funcoes/3587736",
-    "img": "https://images.sympla.com.br/6ab3cea375cfe-xs.jpg",
-    "dataStr": "TER, 20 OUT · 21:00\nO MENINO DO RH (em acumulando funções)\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "TATA MENDONÇA uma Cega Visíonaria",
     "url": "https://www.sympla.com.br/evento/tata-mendonca-uma-cega-visionaria/3570649",
     "img": "https://images.sympla.com.br/6ac3b0a08bdde-xs.png",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-05-de-novembro/3594842",
     "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
     "dataStr": "QUI, 05 NOV · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 05 de novembro\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 19 de novembro",
+    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-19-de-novembro/3594848",
+    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "dataStr": "QUI, 19 NOV · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 19 de novembro\nOZ Comedy - Osasco, SP"
   }
 ]
