@@ -1,11 +1,5 @@
 [
   {
-    "nome": "FELIPE KOT em ( Lei de MURPHY)",
-    "url": "https://www.sympla.com.br/evento/felipe-kot-em-lei-de-murphy/3566478",
-    "img": "https://images.sympla.com.br/6ab3cfc6cf512-xs.jpg",
-    "dataStr": "SAB, 24 OUT · 21:00\nFELIPE KOT em ( Lei de MURPHY)\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 29 de outubro",
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-29-de-outubro/3587753",
     "img": "https://images.sympla.com.br/6ab3d0e1167b0-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/igor-guedes-stand-up-comedy/3627382",
     "img": "https://images.sympla.com.br/699e1a5950e47-xs.jpg",
     "dataStr": "SAB, 14 NOV · 21:00\nIGOR GUEDES - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 19 de novembro",
+    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-19-de-novembro/3594848",
+    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "dataStr": "QUI, 19 NOV · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 19 de novembro\nOZ Comedy - Osasco, SP"
   }
 ]
