@@ -1,11 +1,5 @@
 [
   {
-    "nome": "NANDO VIANA EM (Á vontade)",
-    "url": "https://www.sympla.com.br/evento/nando-viana-em-a-vontade/3587866",
-    "img": "https://images.sympla.com.br/6ab3d19f25d62-xs.jpg",
-    "dataStr": "SEX, 30 OUT · 21:00\nNANDO VIANA EM (Á vontade)\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "4 amigles Pela primeira vez em Osasco",
     "url": "https://www.sympla.com.br/evento/4-amigles-pela-primeira-vez-em-osasco/3587870",
     "img": "https://images.sympla.com.br/6ab2cda0b92d7-xs.jpg",
@@ -16,12 +10,6 @@
     "url": "https://www.sympla.com.br/evento/flavio-andradde-em-osasco-sp-como-sobreviver-a-propria-familia/3594840",
     "img": "https://images.sympla.com.br/6ac688b8d696e-xs.png",
     "dataStr": "DOM, 01 NOV · 21:00\nFLÁVIO ANDRADDE EM OSASCO/SP (COMO SOBREVIVER A PROPRIA FAMILIA)\nOZ Comedy - Osasco, SP"
-  },
-  {
-    "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 05 de novembro",
-    "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-05-de-novembro/3594842",
-    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
-    "dataStr": "QUI, 05 NOV · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 05 de novembro\nOZ Comedy - Osasco, SP"
   },
   {
     "nome": "DINHO MACHADO DE ALFAVELA A ALPHAVILLE",
@@ -44,7 +32,19 @@
   {
     "nome": "Entre 4 Paredes Stand Up GUTO ANDRADE Osasco 19 de novembro",
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-19-de-novembro/3594848",
-    "img": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+    "img": "https://images.sympla.com.br/6ae4daf58656e-xs.jpg",
     "dataStr": "QUI, 19 NOV · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 19 de novembro\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "MAGICAMENTE EM OSASCO - STAND UP COMEDY",
+    "url": "https://www.sympla.com.br/evento/magicamente-em-osasco-stand-up-comedy/3594851",
+    "img": "https://images.sympla.com.br/6ad664f613f7f-xs.jpg",
+    "dataStr": "SEX, 20 NOV · 21:00\nMAGICAMENTE EM OSASCO - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "André Assunção ENTRE CÃES E GATOS",
+    "url": "https://www.sympla.com.br/evento/andre-assuncao-entre-caes-e-gatos/3564963",
+    "img": "https://images.sympla.com.br/6ae4dba388795-xs.jpg",
+    "dataStr": "SAB, 21 NOV · 21:00\nAndré Assunção ENTRE CÃES E GATOS\nOZ Comedy - Osasco, SP"
   }
 ]
