@@ -1,11 +1,5 @@
 [
   {
-    "nome": "FLÁVIO ANDRADDE EM OSASCO/SP (COMO SOBREVIVER A PROPRIA FAMILIA)",
-    "url": "https://www.sympla.com.br/evento/flavio-andradde-em-osasco-sp-como-sobreviver-a-propria-familia/3594840",
-    "img": "https://images.sympla.com.br/6ac688b8d696e-xs.png",
-    "dataStr": "DOM, 01 NOV · 21:00\nFLÁVIO ANDRADDE EM OSASCO/SP (COMO SOBREVIVER A PROPRIA FAMILIA)\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "DINHO MACHADO DE ALFAVELA A ALPHAVILLE",
     "url": "https://www.sympla.com.br/evento/dinho-machado-de-alfavela-a-alphaville/3626906",
     "img": "https://images.sympla.com.br/6ad8c8a69475f-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/kedny-silva-em-osasco-terapia-de-casal/3634012",
     "img": "https://images.sympla.com.br/6a15bf3eb691b-xs.jpg",
     "dataStr": "SEX, 27 NOV · 21:00\nKEDNY SILVA EM OSASCO - TERAPIA DE CASAL\nOz Comedy - Osasco, SP"
+  },
+  {
+    "nome": "SANTO RISO EM OSASCO - HUMOR PRA FAMÍLIA",
+    "url": "https://www.sympla.com.br/evento/santo-riso-em-osasco-humor-pra-familia/3634023",
+    "img": "https://images.sympla.com.br/6ae4e3c4b813e-xs.jpg",
+    "dataStr": "SAB, 28 NOV · 17:00\nSANTO RISO EM OSASCO - HUMOR PRA FAMÍLIA\nOZ Comedy - Osasco, SP"
   }
 ]
