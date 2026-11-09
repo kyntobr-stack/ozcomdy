@@ -1,5 +1,11 @@
 [
   {
+    "nome": "GIOVANA FAGUNDES EM OSASCO - TESTANDO NOVO SHOW",
+    "url": "https://www.sympla.com.br/evento/giovana-fagundes-em-osasco-testando-novo-show/3629764",
+    "img": "https://images.sympla.com.br/6adb67f06a8fb-xs.jpg",
+    "dataStr": "QUI, 12 NOV · 21:00\nGIOVANA FAGUNDES EM OSASCO - TESTANDO NOVO SHOW\nOZ Comedy - Osasco, SP"
+  },
+  {
     "nome": "NOITE DA COMEDIA (SHOW ELENCO)",
     "url": "https://www.sympla.com.br/evento/noite-da-comedia-show-elenco/3632236",
     "img": "https://images.sympla.com.br/6aeb5aa21ce9e-xs.jpg",
@@ -40,11 +46,5 @@
     "url": "https://www.sympla.com.br/evento/santo-riso-em-osasco-humor-pra-familia/3634023",
     "img": "https://images.sympla.com.br/6ae4e3c4b813e-xs.jpg",
     "dataStr": "SAB, 28 NOV · 17:00\nSANTO RISO EM OSASCO - HUMOR PRA FAMÍLIA\nOZ Comedy - Osasco, SP"
-  },
-  {
-    "nome": "IGOR GUEDES - STAND UP COMEDY",
-    "url": "https://www.sympla.com.br/evento/igor-guedes-stand-up-comedy/3631979",
-    "img": "https://images.sympla.com.br/6adf8260a50e8-xs.jpg",
-    "dataStr": "QUI, 03 DEZ · 21:00\nIGOR GUEDES - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
   }
 ]
