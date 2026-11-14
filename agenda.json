@@ -1,11 +1,5 @@
 [
   {
-    "nome": "NOITE DA COMEDIA (SHOW ELENCO)",
-    "url": "https://www.sympla.com.br/evento/noite-da-comedia-show-elenco/3632236",
-    "img": "https://images.sympla.com.br/6aeb5aa21ce9e-xs.jpg",
-    "dataStr": "SEX, 13 NOV · 21:00\nNOITE DA COMEDIA (SHOW ELENCO)\nOz Comedy - Osasco, SP"
-  },
-  {
     "nome": "IGOR GUEDES - STAND UP COMEDY",
     "url": "https://www.sympla.com.br/evento/igor-guedes-stand-up-comedy/3627382",
     "img": "https://images.sympla.com.br/699e1a5950e47-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/igor-guedes-stand-up-comedy/3631979",
     "img": "https://images.sympla.com.br/6adf8260a50e8-xs.jpg",
     "dataStr": "QUI, 03 DEZ · 21:00\nIGOR GUEDES - STAND UP COMEDY\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "JHORDAN MATHEUS EM OSASCO",
+    "url": "https://www.sympla.com.br/evento/jhordan-matheus-em-osasco/3641884",
+    "img": "https://images.sympla.com.br/6af4995758f93-xs.jpg",
+    "dataStr": "TER, 08 DEZ · 19:30\nJHORDAN MATHEUS EM OSASCO\nOZ Comedy - Osasco, SP"
   }
 ]
