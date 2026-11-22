@@ -1,11 +1,5 @@
 [
   {
-    "nome": "André Assunção ENTRE CÃES E GATOS",
-    "url": "https://www.sympla.com.br/evento/andre-assuncao-entre-caes-e-gatos/3564963",
-    "img": "https://images.sympla.com.br/6ae4dba388795-xs.jpg",
-    "dataStr": "SAB, 21 NOV · 21:00\nAndré Assunção ENTRE CÃES E GATOS\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "KEDNY SILVA EM OSASCO - TERAPIA DE CASAL",
     "url": "https://www.sympla.com.br/evento/kedny-silva-em-osasco-terapia-de-casal/3634012",
     "img": "https://images.sympla.com.br/6aea1a6f515f6-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/entre-4-paredes-stand-up-guto-andrade-osasco-12-de-dezembro/3653129",
     "img": "https://images.sympla.com.br/6af5c4d2dbbd8-xs.jpg",
     "dataStr": "SAB, 12 DEZ · 21:00\nEntre 4 Paredes Stand Up GUTO ANDRADE Osasco 12 de dezembro\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Welson Nunes em osasco",
+    "url": "https://www.sympla.com.br/evento/welson-nunes-em-osasco/3652280",
+    "img": "https://images.sympla.com.br/6af5bc147c1d2-xs.jpg",
+    "dataStr": "SEG, 14 DEZ · 19:30\nWelson Nunes em osasco\nOZ Comedy - Osasco, SP"
   }
 ]
