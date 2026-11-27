@@ -6,12 +6,6 @@
     "dataStr": "SEX, 27 NOV · 21:00\nKEDNY SILVA EM OSASCO - TERAPIA DE CASAL\nOz Comedy - Osasco, SP"
   },
   {
-    "nome": "SANTO RISO EM OSASCO - HUMOR PRA FAMÍLIA",
-    "url": "https://www.sympla.com.br/evento/santo-riso-em-osasco-humor-pra-familia/3634023",
-    "img": "https://images.sympla.com.br/6b0444e9e50a1-xs.jpg",
-    "dataStr": "SAB, 28 NOV · 19:00\nSANTO RISO EM OSASCO - HUMOR PRA FAMÍLIA\nOZ Comedy - Osasco, SP"
-  },
-  {
     "nome": "IGOR GUEDES - STAND UP COMEDY",
     "url": "https://www.sympla.com.br/evento/igor-guedes-stand-up-comedy/3631979",
     "img": "https://images.sympla.com.br/6adf8260a50e8-xs.jpg",
@@ -46,5 +40,11 @@
     "url": "https://www.sympla.com.br/evento/welson-nunes-em-osasco/3652280",
     "img": "https://images.sympla.com.br/6af5bc147c1d2-xs.jpg",
     "dataStr": "SEG, 14 DEZ · 19:30\nWelson Nunes em osasco\nOZ Comedy - Osasco, SP"
+  },
+  {
+    "nome": "Welson Nunes em osasco (sessão extra)",
+    "url": "https://www.sympla.com.br/evento/welson-nunes-em-osasco-sessao-extra/3653118",
+    "img": "https://images.sympla.com.br/6af5c3c99101c-xs.jpg",
+    "dataStr": "SEG, 14 DEZ · 21:30\nWelson Nunes em osasco (sessão extra)\nOZ Comedy - Osasco, SP"
   }
 ]
